@@ -17,8 +17,9 @@ INPUT_CSV = "sites.csv"
 OUTPUT_JSON = "twitter_tracking.json"
 MAX_WORKERS = 20  # Number of parallel threads for the fast pass
 
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+    "User-Agent": USER_AGENT,
     "Accept-Language": "en-GB,en-NZ;q=0.9,en-AU;q=0.8,en;q=0.7,en-US;q=0.6",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "sec-ch-ua": '"Chromium";v="143", "Google Chrome";v="143", "Not-A.Brand";v="99"',
@@ -73,7 +74,14 @@ def extract_twitter_handle_playwright(url, browser):
     """
     Slow method: Uses Playwright with Stealth.
     """
-    page = browser.new_page()
+    context = browser.new_context(
+        user_agent=USER_AGENT,
+        locale="en-GB",
+        viewport={"width": 1280, "height": 720},  # Real screen size helps trust score
+        device_scale_factor=1,
+    )
+
+    page = context.new_page()
     page.set_extra_http_headers(HEADERS)
 
     stealth = Stealth()
