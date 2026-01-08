@@ -14,39 +14,27 @@ PepsiCo,Food & Beverage,https://www.pepsico.com/
 Verizon,Telecommunications,https://www.verizon.com/
 UPS,Transportation,https://about.ups.com/
 FedEx,Transportation,https://www.fedex.com/
-Lowe's,Retail,https://corporate.lowes.com/
 IBM,Technology,https://www.ibm.com/
 Johnson & Johnson,Healthcare,https://www.jnj.com/
 Nike,Apparel,https://about.nike.com/
 Starbucks,Food & Beverage,https://www.starbucks.com/
 McDonald's,Food & Beverage,https://www.mcdonalds.com/
-Gap,Apparel,https://gap.com
-H&M,Apparel,https://hm.com
 Nike,Apparel,https://nike.com
 Shein,Apparel,https://shein.com
 Uniqlo,Apparel,https://uniqlo.com
-Zara,Apparel,https://zara.com
-Alipay,Finance,https://alipay.com
 American Express,Finance,https://amex.com
-Bank of America,Finance,https://bankofamerica.com
-Block,Finance,https://block.xyz
 Capital One,Finance,https://capitalone.com
 Chase,Finance,https://chase.com
 Citi,Finance,https://citi.com
-PayPal,Finance,https://paypal.com
-Stripe,Finance,https://stripe.com
 Wells Fargo,Finance,https://wellsfargo.com
-Burger King,Food & Beverage,https://bk.com
-Chick-fil-A,Food & Beverage,https://chick-fil-a.com
 Chipotle,Food & Beverage,https://chipotle.com
 Domino's,Food & Beverage,https://dominos.com
 Dunkin',Food & Beverage,https://dunkindonuts.com
 KFC,Food & Beverage,https://kfc.com
 Krispy Kreme,Food & Beverage,https://krispykreme.com
 McDonald's,Food & Beverage,https://mcdonalds.com
-Panera Bread,Food & Beverage,https://panerabread.com
+Panera Bread,Food & Beverage,https://www.panerabread.com
 Papa John's,Food & Beverage,https://papajohns.com
-Pizza Hut,Food & Beverage,https://pizzahut.com
 Starbucks,Food & Beverage,https://starbucks.com
 Subway,Food & Beverage,https://subway.com
 Taco Bell,Food & Beverage,https://tacobell.com
@@ -57,68 +45,34 @@ EA,Gaming,https://ea.com
 Epic Games,Gaming,https://epicgames.com
 Nintendo,Gaming,https://nintendo.com
 PlayStation,Gaming,https://playstation.com
-Roblox,Gaming,https://roblox.com
-Steam,Gaming,https://steampowered.com
-Ubisoft,Gaming,https://ubisoft.com
 Xbox,Gaming,https://xbox.com
-DC Comics,Media,https://dccomics.com
-Discovery+,Media,https://discoveryplus.com
 Disney+,Media,https://disneyplus.com
-Flickr,Media,https://flickr.com
-HBO Max,Media,https://hbomax.com
-Hello Kitty,Media,https://hellokitty.com
 Hulu,Media,https://hulu.com
 IMDb,Media,https://imdb.com
 Marvel,Media,https://marvel.com
-Medium,Media,https://medium.com
 Netflix,Media,https://netflix.com
 Paramount+,Media,https://paramountplus.com
 Peacock,Media,https://peacocktv.com
 Pokémon,Media,https://pokemon.com
-Prime Video,Media,https://primevideo.com
 Sanrio,Media,https://sanrio.com
-Star Wars,Media,https://starwars.com
-Twitch,Media,https://twitch.tv
 Vimeo,Media,https://vimeo.com
 Wirtualna Polska,Media,https://wp.pl
-Yahoo,Media,https://yahoo.com
-Yahoo,Media,https://yahoo.co.jp
-YouTube,Media,https://youtube.com
 AccuWeather,News,https://accuweather.com
-BBC,News,https://bbc.co.uk
 BBC,News,https://bbc.com
-Bloomberg,News,https://bloomberg.com
 CNBC,News,https://cnbc.com
 CNN,News,https://cnn.com
 Forbes,News,https://forbes.com
 Fox News,News,https://foxnews.com
-New York Times,News,https://nytimes.com
 Reuters,News,https://reuters.com
 The Weather Channel,News,https://weather.com
 Wall Street Journal,News,https://wsj.com
-Washington Post,News,https://washingtonpost.com
-Wikipedia,Reference,https://wikipedia.org
 Aldi,Retail,https://aldi.us
 AliExpress,Retail,https://aliexpress.com
 Alibaba,Retail,https://alibaba.com
-Amazon,Retail,https://amazon.co.jp
-Amazon,Retail,https://amazon.co.uk
-Amazon,Retail,https://amazon.com
-Amazon,Retail,https://amazon.de
-Barneys,Retail,https://barneys.com
-Belk,Retail,https://belk.com
-Bergdorf Goodman,Retail,https://bergdorfgoodman.com
 Best Buy,Retail,https://bestbuy.com
 Bloomingdale's,Retail,https://bloomingdales.com
-Burlington,Retail,https://burlington.com
-Dillard's,Retail,https://dillards.com
-Etsy,Retail,https://etsy.com
 H-E-B,Retail,https://heb.com
-Home Depot,Retail,https://homedepot.com
-JCPenney,Retail,https://jcpenney.com
 JD.com,Retail,https://jd.com
-Kohl's,Retail,https://kohls.com
-Kroger,Retail,https://kroger.com
 Lidl,Retail,https://lidl.com
 Lowe's,Retail,https://lowes.com
 Macy's,Retail,https://macys.com
@@ -127,45 +81,22 @@ Neiman Marcus,Retail,https://neimanmarcus.com
 Nordstrom,Retail,https://nordstrom.com
 Nordstrom Rack,Retail,https://nordstromrack.com
 Publix,Retail,https://publix.com
-Rakuten,Retail,https://rakuten.co.jp
-Rite Aid,Retail,https://riteaid.com
-Ross,Retail,https://rossstores.com
 Safeway,Retail,https://safeway.com
 Saks Fifth Avenue,Retail,https://saksfifthavenue.com
 Sephora,Retail,https://sephora.com
-TJ Maxx,Retail,https://tjmaxx.com
-Taobao,Retail,https://taobao.com
 Target,Retail,https://target.com
-Tmall,Retail,https://tmall.com
-Trader Joe's,Retail,https://traderjoes.com
 Ulta Beauty,Retail,https://ultabeauty.com
-Walgreens,Retail,https://walgreens.com
-Walmart,Retail,https://walmart.com
 Wegmans,Retail,https://wegmans.com
 Whole Foods,Retail,https://wholefoodsmarket.com
-Wildberries,Retail,https://wildberries.ru
 eBay,Retail,https://ebay.com
 Discord,Social Media,https://discord.com
-Facebook,Social Media,https://facebook.com
-Instagram,Social Media,https://instagram.com
-LINE,Social Media,https://line.me
-LinkedIn,Social Media,https://linkedin.com
-Pinterest,Social Media,https://pinterest.com
-Quora,Social Media,https://quora.com
-Reddit,Social Media,https://reddit.com
 Telegram,Social Media,https://telegram.org
-TikTok,Social Media,https://tiktok.com
-Tumblr,Social Media,https://tumblr.com
-VK,Social Media,https://vk.com
-Weibo,Social Media,https://weibo.com
 WhatsApp,Social Media,https://whatsapp.com
-Xiaohongshu,Social Media,https://xiaohongshu.com
 ESPN,Sports,https://espn.com
 FIFA,Sports,https://fifa.com
 MLB,Sports,https://mlb.com
 NBA,Sports,https://nba.com
 NFL,Sports,https://nfl.com
-360 Safe,Technology,https://360safe.com
 AMD,Technology,https://amd.com
 ASUS,Technology,https://asus.com
 Acer,Technology,https://acer.com
@@ -178,66 +109,45 @@ Amplitude,Technology,https://amplitude.com
 Analog Devices,Technology,https://analog.com
 Anthropic,Technology,https://anthropic.com
 AnyDesk,Technology,https://anydesk.com
-Asana,Technology,https://asana.com
-Atlassian,Technology,https://atlassian.com
-Baidu,Technology,https://baidu.com
-Bing,Technology,https://bing.com
 Bose,Technology,https://bose.com
 Box,Technology,https://box.com
 Broadcom,Technology,https://broadcom.com
-Canon,Technology,https://canon.com
 Canva,Technology,https://canva.com
 Cisco,Technology,https://cisco.com
 Corsair,Technology,https://corsair.com
 DJI,Technology,https://dji.com
-Dell,Technology,https://dell.com
 DoorDash,Technology,https://doordash.com
 Dropbox,Technology,https://dropbox.com
-DuckDuckGo,Technology,https://duckduckgo.com
 Ericsson,Technology,https://ericsson.com
 Figma,Technology,https://figma.com
 Fitbit,Technology,https://fitbit.com
 Garmin,Technology,https://garmin.com
-Gateway,Technology,https://gateway.com
-Gigabyte,Technology,https://gigabyte.com
 GitLab,Technology,https://gitlab.com
 GitHub,Technology,https://github.com
 GoPro,Technology,https://gopro.com
 HP,Technology,https://hp.com
 Hugging Face,Technology,https://huggingface.co
-Huawei,Technology,https://huawei.com
 HyperX,Technology,https://hyperx.com
 IBM,Technology,https://ibm.com
-Infineon,Technology,https://infineon.com
 Instacart,Technology,https://instacart.com
 Intel,Technology,https://intel.com
-Kakao,Technology,https://kakao.com
 Kingston,Technology,https://kingston.com
 LG,Technology,https://lg.com
 Lenovo,Technology,https://lenovo.com
 Logitech,Technology,https://logitech.com
 Lyft,Technology,https://lyft.com
-MSI,Technology,https://msi.com
 Microchip,Technology,https://microchip.com
 Micron,Technology,https://micron.com
-Microsoft,Technology,https://microsoft.com
-Microsoft Windows,Technology,https://windows.com
-Midjourney,Technology,https://midjourney.com
-Motorola,Technology,https://motorola.com
 NVIDIA,Technology,https://nvidia.com
-NXP,Technology,https://nxp.com
-Naver,Technology,https://naver.com
-Nikon,Technology,https://nikon.com
+Nikon,Technology,https://www.nikon.com/socialmedia/
 Nokia,Technology,https://nokia.com
 Notion,Technology,https://notion.so
 OnePlus,Technology,https://oneplus.com
 Oppo,Technology,https://oppo.com
-Oracle,Technology,https://oracle.com
 Qualcomm,Technology,https://qualcomm.com
 Razer,Technology,https://razer.com
 Realme,Technology,https://realme.com
 Renesas,Technology,https://renesas.com
-Roku,Technology,https://roku.com
 STMicroelectronics,Technology,https://st.com
 Salesforce,Technology,https://salesforce.com
 Samsung,Technology,https://samsung.com
@@ -250,18 +160,13 @@ Squarespace,Technology,https://squarespace.com
 Stability AI,Technology,https://stability.ai
 Stack Overflow,Technology,https://stackoverflow.com
 SteelSeries,Technology,https://steelseries.com
-TSMC,Technology,https://tsmc.com
 Texas Instruments,Technology,https://ti.com
 Trello,Technology,https://trello.com
 Turtle Beach,Technology,https://turtlebeach.com
 Uber,Technology,https://uber.com
-Vivo,Technology,https://vivo.com
 Wix,Technology,https://wix.com
 WordPress,Technology,https://wordpress.com
 Xiaomi,Technology,https://xiaomi.com
-Yammer,Technology,https://yammer.com
-Yandex,Technology,https://yandex.com
-Yandex,Technology,https://yandex.ru
 Zendesk,Technology,https://zendesk.com
 Zoho,Technology,https://zoho.com
 Zoom,Technology,https://zoom.us
@@ -270,133 +175,71 @@ Bandai,Toys,https://bandai.com
 Funko,Toys,https://funko.com
 Hasbro,Toys,https://hasbro.com
 LEGO,Toys,https://lego.com
-Mattel,Toys,https://mattel.com
 Airbnb,Travel,https://airbnb.com
-Booking.com,Travel,https://booking.com
-Expedia,Travel,https://expedia.com
 TripAdvisor,Travel,https://tripadvisor.com
 Khan Academy,Education,https://khanacademy.org
 Quizlet,Education,https://quizlet.com
-Udemy,Education,https://udemy.com
 Binance,Finance,https://binance.com
 Coinbase,Finance,https://coinbase.com
 CoinMarketCap,Finance,https://coinmarketcap.com
 Intuit,Finance,https://intuit.com
-Investopedia,Finance,https://investopedia.com
 MarketWatch,Finance,https://marketwatch.com
 Mastercard,Finance,https://mastercard.com
 Revolut,Finance,https://revolut.com
 TradingView,Finance,https://tradingview.com
 Visa,Finance,https://visa.com
 Wise,Finance,https://wise.com
-Red Bull,Food & Beverage,https://redbull.com
 Battle.net,Gaming,https://battle.net
 Chess.com,Gaming,https://chess.com
-Steam Community,Gaming,https://steamcommunity.com
 Healthline,Healthcare,https://healthline.com
 Mayo Clinic,Healthcare,https://mayoclinic.org
 WebMD,Healthcare,https://webmd.com
-56.com,Media,https://56.com
 Axel Springer,Media,https://axelspringer.com
 Bandcamp,Media,https://bandcamp.com
-Bilibili,Media,https://bilibili.com
-Bilibili,Media,https://b23.tv
 CBS,Media,https://cbs.com
 Crunchyroll,Media,https://crunchyroll.com
-Dailymotion,Media,https://dailymotion.com
-Daum,Media,https://daum.net
 Deezer,Media,https://deezer.com
-Digg,Media,https://digg.com
-Docin,Media,https://docin.com
-Dreamstime,Media,https://dreamstime.com
-E! Online,Media,https://eonline.com
 Fandom,Media,https://fandom.com
-Fox,Media,https://fox.com
 Freepik,Media,https://freepik.com
 Genius,Media,https://genius.com
-GIPHY,Media,https://giphy.com
 Goodreads,Media,https://goodreads.com
-Ifeng,Media,https://ifeng.com
 iHeartRadio,Media,https://iheart.com
-Imgur,Media,https://imgur.com
-iQIYI,Media,https://iqiyi.com
 Issuu,Media,https://issuu.com
 Last.fm,Media,https://last.fm
-Mixcloud,Media,https://mixcloud.com
 National Geographic,Media,https://nationalgeographic.com
 NBCUniversal,Media,https://nbcuni.com
 PBS,Media,https://pbs.org
-People,Media,https://people.com
 Pixabay,Media,https://pixabay.com
 Psychology Today,Media,https://psychologytoday.com
-Rotten Tomatoes,Media,https://rottentomatoes.com
-Scribd,Media,https://scribd.com
 Shutterstock,Media,https://shutterstock.com
-SlideShare,Media,https://slideshare.net
-SoundCloud,Media,https://soundcloud.com
 Statista,Media,https://statista.com
 TED,Media,https://ted.com
 The New Yorker,Media,https://newyorker.com
-The Verge,Media,https://theverge.com
 TIME,Media,https://time.com
-Unsplash,Media,https://unsplash.com
-Vice,Media,https://vice.com
 Vogue,Media,https://vogue.com
 Wattpad,Media,https://wattpad.com
 Wikia,Media,https://wikia.com
 Wired,Media,https://wired.com
-Youku,Media,https://youku.com
-Eastday,News,https://eastday.com
 HuffPost,News,https://huffpost.com
 IndiaTimes,News,https://indiatimes.com
 LA Times,News,https://latimes.com
-MSN,News,https://msn.com
 NBC News,News,https://nbcnews.com
-NPR,News,https://npr.org
-The Guardian,News,https://theguardian.com
 The Independent,News,https://independent.co.uk
-Toutiao,News,https://toutiao.com
 USA Today,News,https://usatoday.com
-Baike.com,Reference,https://baike.com
 wikiHow,Reference,https://wikihow.com
-Wikimedia,Reference,https://wikimedia.org
-Carousell,Retail,https://carousell.com
 ClickBank,Retail,https://clickbank.com
-Craigslist,Retail,https://craigslist.org
 eBay France,Retail,https://ebay.fr
-eBay Germany,Retail,https://ebay.de
-eBay Italy,Retail,https://ebay.it
-eBay UK,Retail,https://ebay.co.uk
 Flipkart,Retail,https://flipkart.com
 Groupon,Retail,https://groupon.com
 Gumtree,Retail,https://gumtree.com
-JD.com HK,Retail,https://jd.hk
-Mercado Libre,Retail,https://mercadolibre.com
-Pinduoduo,Retail,https://pinduoduo.com
 Rakuten,Retail,https://rakuten.com
-Target Australia,Retail,https://target.com.au
-Vipshop,Retail,https://vip.com
-Walmart Canada,Retail,https://walmart.ca
-Wayfair,Retail,https://wayfair.com
-Babytree,Social Media,https://babytree.com
 Behance,Social Media,https://behance.net
-Blogger,Social Media,https://blogspot.com
 Change.org,Social Media,https://change.org
-Douban,Social Media,https://douban.com
-Douyin,Social Media,https://douyin.com
 Dribbble,Social Media,https://dribbble.com
-Kuaishou,Social Media,https://kuaishou.com
 LiveJournal,Social Media,https://livejournal.com
 Meetup,Social Media,https://meetup.com
-Messenger,Social Media,https://messenger.com
-WeChat,Social Media,https://wechat.com
-Zhihu,Social Media,https://zhihu.com
 ESPN UK,Sports,https://espn.co.uk
-Hupu,Sports,https://hupu.com
-MLB.tv,Sports,https://mlb.tv
 Avast,Technology,https://avast.com
-AVG,Technology,https://avg.com
-Avira,Technology,https://avira.com
 Bitdefender,Technology,https://bitdefender.com
 Bitly,Technology,https://bit.ly
 Brevo,Technology,https://brevo.com
@@ -418,60 +261,36 @@ Grammarly,Technology,https://grammarly.com
 HERE Technologies,Technology,https://here.com
 Hootsuite,Technology,https://hootsuite.com
 HubSpot,Technology,https://hubspot.com
-iCloud,Technology,https://icloud.com
-ICQ,Technology,https://icq.com
-Indeed,Technology,https://indeed.com
 InfluxData,Technology,https://influxdata.com
-iTunes,Technology,https://itunes.com
-Jimdo,Technology,https://jimdo.com
 Kaspersky,Technology,https://kaspersky.com
 Kickstarter,Technology,https://kickstarter.com
-Linktree,Technology,https://linktr.ee
-Mail.ru,Technology,https://mail.ru
 Mailchimp,Technology,https://mailchimp.com
 Mapbox,Technology,https://mapbox.com
 McAfee,Technology,https://mcafee.com
-Meituan,Technology,https://meituan.com
-Microsoft Live,Technology,https://live.com
-Microsoft Office,Technology,https://office.com
-Microsoft Outlook,Technology,https://outlook.com
 Monster,Technology,https://monster.com
-Mozilla,Technology,https://mozilla.org
 Namecheap,Technology,https://namecheap.com
-NetEase,Technology,https://163.com
 Norton,Technology,https://norton.com
 Okta,Technology,https://okta.com
 Patreon,Technology,https://patreon.com
 PHP,Technology,https://php.net
-Pocket,Technology,https://getpocket.com
 ProtonMail,Technology,https://protonmail.com
 Python Software Foundation,Technology,https://python.org
 Qualtrics,Technology,https://qualtrics.com
 Red Hat,Technology,https://redhat.com
-ResearchGate,Technology,https://researchgate.net
 Salesforce,Technology,https://force.com
-Skype,Technology,https://skype.com
 SourceForge,Technology,https://sourceforge.net
 Speedtest by Ookla,Technology,https://speedtest.net
 Stack Exchange,Technology,https://stackexchange.com
 SurveyMonkey,Technology,https://surveymonkey.com
-TeamViewer,Technology,https://teamviewer.com
 Tencent,Technology,https://tencent.com
 TinyURL,Technology,https://tinyurl.com
 Trustpilot,Technology,https://trustpilot.com
 Upwork,Technology,https://upwork.com
 VMware,Technology,https://vmware.com
-Waze,Technology,https://waze.com
 Webex,Technology,https://webex.com
 Weebly,Technology,https://weebly.com
-WeTransfer,Technology,https://wetransfer.com
 WordPress,Technology,https://wordpress.org
-Yelp,Technology,https://yelp.com
-Zillow,Technology,https://zillow.com
 USPS,Transportation,https://usps.com
-Ctrip,Travel,https://ctrip.com
-Fliggy,Travel,https://fliggy.com
-Hotels.com,Travel,https://hotels.com
 Trip.com,Travel,https://trip.com
 1Password,Password Manager,https://1password.com
 Bitwarden,Password Manager,https://bitwarden.com
@@ -482,9 +301,7 @@ NordPass,Password Manager,https://nordpass.com
 RoboForm,Password Manager,https://roboform.com
 Sticky Password,Password Manager,https://stickypassword.com
 Enpass,Password Manager,https://enpass.io
-LogMeOnce,Password Manager,https://logmeonce.com
 Proton Pass,Password Manager,https://proton.me/pass
-KeePass,Password Manager,https://keepass.info
 Password Boss,Password Manager,https://passwordboss.com
 RememBear,Password Manager,https://remembear.com
 Zoho Vault,Password Manager,https://zoho.com/vault
@@ -506,20 +323,15 @@ PrivateVPN,VPN,https://privatevpn.com
 Trend Micro,Consumer Security,https://trendmicro.com
 Malwarebytes,Consumer Security,https://malwarebytes.com
 ESET,Consumer Security,https://eset.com
-Sophos Home,Consumer Security,https://home.sophos.com
 Webroot,Consumer Security,https://webroot.com
 Panda Security,Consumer Security,https://pandasecurity.com
 F-Secure,Consumer Security,https://f-secure.com
-G Data,Consumer Security,https://gdatasoftware.com
-TotalAV,Consumer Security,https://totalav.com
-BullGuard,Consumer Security,https://bullguard.com
 ZoneAlarm,Consumer Security,https://zonealarm.com
 Vipre,Consumer Security,https://vipre.com
 Emsisoft,Consumer Security,https://emsisoft.com
 Lookout,Consumer Security,https://lookout.com
 Aura,Consumer Security,https://aura.com
 Palo Alto Networks,Enterprise Security,https://paloaltonetworks.com
-CrowdStrike,Enterprise Security,https://crowdstrike.com
 Cisco Secure,Enterprise Security,https://cisco.com/site/us/en/products/security
 Fortinet,Enterprise Security,https://fortinet.com
 Zscaler,Enterprise Security,https://zscaler.com
@@ -536,7 +348,6 @@ Trellix,Enterprise Security,https://trellix.com
 Darktrace,Enterprise Security,https://darktrace.com
 Arctic Wolf,Enterprise Security,https://arcticwolf.com
 KnowBe4,Enterprise Security,https://knowbe4.com
-Mimecast,Enterprise Security,https://mimecast.com
 Barracuda Networks,Enterprise Security,https://barracuda.com
 SonicWall,Enterprise Security,https://sonicwall.com
 WatchGuard,Enterprise Security,https://watchguard.com
@@ -561,7 +372,6 @@ Vanta,Enterprise Security,https://vanta.com
 Drata,Enterprise Security,https://drata.com
 Snyk,Enterprise Security,https://snyk.io
 Wiz,Enterprise Security,https://wiz.io
-Lacework,Enterprise Security,https://lacework.com
 SecurityScorecard,Enterprise Security,https://securityscorecard.com
 HackerOne,Enterprise Security,https://hackerone.com
 Bugcrowd,Enterprise Security,https://bugcrowd.com
@@ -569,8 +379,5 @@ Veracode,Enterprise Security,https://veracode.com
 Checkmarx,Enterprise Security,https://checkmarx.com
 Synack,Enterprise Security,https://synack.com
 Mandiant,Enterprise Security,https://mandiant.com
-Recorded Future,Enterprise Security,https://recordedfuture.com
-Dragos,Enterprise Security,https://dragos.com
 Claroty,Enterprise Security,https://claroty.com
 Armis,Enterprise Security,https://armis.com
-Abnormal Security,Enterprise Security,https://abnormalsecurity.com
