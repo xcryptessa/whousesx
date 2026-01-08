@@ -1,6 +1,6 @@
 # Who Uses X?
 
-_Last updated: 2026-01-08 11:37:07_
+_Last updated: 2026-01-08 14:06:02_
 
 A list of companies and organizations verifying their presence on X (formerly Twitter).
 
@@ -177,6 +177,7 @@ A list of companies and organizations verifying their presence on X (formerly Tw
 | [Axel Springer](https://axelspringer.com) | [@share](https://x.com/share) | 2026-01-08 |
 | [Bandcamp](https://bandcamp.com) | [@bandcamp](https://x.com/bandcamp) | 2026-01-08 |
 | [CBS](https://cbs.com) | [@cbs](https://x.com/cbs) | 2026-01-08 |
+| [Crunchyroll](https://crunchyroll.com) | [@crunchyroll](https://x.com/crunchyroll) | 2026-01-08 |
 | [Deezer](https://deezer.com) | [@Deezer](https://x.com/Deezer) | 2026-01-08 |
 | [Disney+](https://disneyplus.com) | [@disneyplus](https://x.com/disneyplus) | 2026-01-08 |
 | [Fandom](https://fandom.com) | [@getfandom](https://x.com/getfandom) | 2026-01-08 |
@@ -193,6 +194,7 @@ A list of companies and organizations verifying their presence on X (formerly Tw
 | [Paramount+](https://paramountplus.com) | [@paramountplus](https://x.com/paramountplus) | 2026-01-08 |
 | [Peacock](https://peacocktv.com) | [@peacock](https://x.com/peacock) | 2026-01-08 |
 | [Pixabay](https://pixabay.com) | [@pixabay](https://x.com/pixabay) | 2026-01-08 |
+| [Pokémon](https://pokemon.com) | [@pokemon](https://x.com/pokemon) | 2026-01-08 |
 | [Psychology Today](https://psychologytoday.com) | [@psychtoday](https://x.com/psychtoday) | 2026-01-08 |
 | [Sanrio](https://sanrio.com) | [@sanrio](https://x.com/sanrio) | 2026-01-08 |
 | [Statista](https://statista.com) | [@StatistaCharts](https://x.com/StatistaCharts) | 2026-01-08 |
@@ -206,6 +208,7 @@ A list of companies and organizations verifying their presence on X (formerly Tw
 | [Wired](https://wired.com) | [@wired](https://x.com/wired) | 2026-01-08 |
 | [Wirtualna Polska](https://wp.pl) | [@wirtualnapolska](https://x.com/wirtualnapolska) | 2026-01-08 |
 | [Yahoo](https://yahoo.com) | [@yahoonews](https://x.com/yahoonews) | 2026-01-08 |
+| [iHeartRadio](https://iheart.com) | [@iHeartRadio](https://x.com/iHeartRadio) | 2026-01-08 |
 
 ## News
 
@@ -356,6 +359,7 @@ A list of companies and organizations verifying their presence on X (formerly Tw
 | [Instacart](https://instacart.com) | [@instacart](https://x.com/instacart) | 2026-01-08 |
 | [Intel](https://intel.com) | [@intel](https://x.com/intel) | 2026-01-08 |
 | [Kaspersky](https://kaspersky.com) | [@kaspersky](https://x.com/kaspersky) | 2026-01-08 |
+| [Kickstarter](https://kickstarter.com) | [@kickstarter](https://x.com/kickstarter) | 2026-01-08 |
 | [Kingston](https://kingston.com) | [@kingstontech](https://x.com/kingstontech) | 2026-01-08 |
 | [LG](https://lg.com) | [@lgus](https://x.com/lgus) | 2026-01-08 |
 | [Lenovo](https://lenovo.com) | [@Lenovo](https://x.com/Lenovo) | 2026-01-08 |

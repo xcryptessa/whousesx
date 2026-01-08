@@ -714,10 +714,10 @@
         "Display Name": "Pok\u00e9mon",
         "Category": "Media",
         "URL": "https://pokemon.com",
-        "Account Handle": null,
-        "First Seen": null,
-        "Last Seen": null,
-        "Currently Listed": false
+        "Account Handle": "@pokemon",
+        "First Seen": "2026-01-08T12:10:51.691283",
+        "Last Seen": "2026-01-08T12:10:51.691283",
+        "Currently Listed": true
     },
     {
         "Display Name": "Prime Video",
@@ -2964,10 +2964,10 @@
         "Display Name": "Crunchyroll",
         "Category": "Media",
         "URL": "https://crunchyroll.com",
-        "Account Handle": null,
-        "First Seen": null,
-        "Last Seen": null,
-        "Currently Listed": false
+        "Account Handle": "@crunchyroll",
+        "First Seen": "2026-01-08T12:18:46.521536",
+        "Last Seen": "2026-01-08T12:18:46.521536",
+        "Currently Listed": true
     },
     {
         "Display Name": "Dailymotion",
@@ -3099,10 +3099,10 @@
         "Display Name": "iHeartRadio",
         "Category": "Media",
         "URL": "https://iheart.com",
-        "Account Handle": null,
-        "First Seen": null,
-        "Last Seen": null,
-        "Currently Listed": false
+        "Account Handle": "@iHeartRadio",
+        "First Seen": "2026-01-08T12:08:52.092337",
+        "Last Seen": "2026-01-08T12:08:52.092337",
+        "Currently Listed": true
     },
     {
         "Display Name": "Imgur",
@@ -4143,10 +4143,10 @@
         "Display Name": "Kickstarter",
         "Category": "Technology",
         "URL": "https://kickstarter.com",
-        "Account Handle": null,
-        "First Seen": null,
-        "Last Seen": null,
-        "Currently Listed": false
+        "Account Handle": "@kickstarter",
+        "First Seen": "2026-01-08T12:27:24.461314",
+        "Last Seen": "2026-01-08T12:27:24.461314",
+        "Currently Listed": true
     },
     {
         "Display Name": "Linktree",
