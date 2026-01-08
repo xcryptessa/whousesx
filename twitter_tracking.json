@@ -214,5 +214,5306 @@
         "First Seen": "2026-01-08T06:13:53.119049",
         "Last Seen": "2026-01-08T06:23:39.292983",
         "Currently Listed": true
+    },
+    {
+        "Display Name": "Ford",
+        "Category": "Automotive",
+        "URL": "https://www.ford.com/",
+        "Account Handle": "@ford",
+        "First Seen": "2026-01-08T11:23:56.433993",
+        "Last Seen": "2026-01-08T11:23:56.433993",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Gap",
+        "Category": "Apparel",
+        "URL": "https://gap.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "H&M",
+        "Category": "Apparel",
+        "URL": "https://hm.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Nike",
+        "Category": "Apparel",
+        "URL": "https://nike.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Shein",
+        "Category": "Apparel",
+        "URL": "https://shein.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Uniqlo",
+        "Category": "Apparel",
+        "URL": "https://uniqlo.com",
+        "Account Handle": "@uniqlousa",
+        "First Seen": "2026-01-08T09:11:35.077869",
+        "Last Seen": "2026-01-08T09:11:35.077869",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Zara",
+        "Category": "Apparel",
+        "URL": "https://zara.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Alipay",
+        "Category": "Finance",
+        "URL": "https://alipay.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "American Express",
+        "Category": "Finance",
+        "URL": "https://amex.com",
+        "Account Handle": "@nyse",
+        "First Seen": "2026-01-08T09:11:48.972411",
+        "Last Seen": "2026-01-08T09:11:48.972411",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bank of America",
+        "Category": "Finance",
+        "URL": "https://bankofamerica.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Block",
+        "Category": "Finance",
+        "URL": "https://block.xyz",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Capital One",
+        "Category": "Finance",
+        "URL": "https://capitalone.com",
+        "Account Handle": "@capitalone",
+        "First Seen": "2026-01-08T09:11:59.625355",
+        "Last Seen": "2026-01-08T09:11:59.625355",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Chase",
+        "Category": "Finance",
+        "URL": "https://chase.com",
+        "Account Handle": "@Chase",
+        "First Seen": "2026-01-08T09:12:00.478830",
+        "Last Seen": "2026-01-08T09:12:00.478830",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Citi",
+        "Category": "Finance",
+        "URL": "https://citi.com",
+        "Account Handle": "@Citibank",
+        "First Seen": "2026-01-08T09:12:07.901115",
+        "Last Seen": "2026-01-08T09:12:07.901115",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PayPal",
+        "Category": "Finance",
+        "URL": "https://paypal.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Stripe",
+        "Category": "Finance",
+        "URL": "https://stripe.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Wells Fargo",
+        "Category": "Finance",
+        "URL": "https://wellsfargo.com",
+        "Account Handle": "@wellsfargo",
+        "First Seen": "2026-01-08T09:12:19.711084",
+        "Last Seen": "2026-01-08T09:12:19.711084",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Burger King",
+        "Category": "Food & Beverage",
+        "URL": "https://bk.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Chick-fil-A",
+        "Category": "Food & Beverage",
+        "URL": "https://chick-fil-a.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Chipotle",
+        "Category": "Food & Beverage",
+        "URL": "https://chipotle.com",
+        "Account Handle": "@chipotletweets",
+        "First Seen": "2026-01-08T09:13:07.540927",
+        "Last Seen": "2026-01-08T09:13:07.540927",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Domino's",
+        "Category": "Food & Beverage",
+        "URL": "https://dominos.com",
+        "Account Handle": "@dominos",
+        "First Seen": "2026-01-08T09:13:12.250213",
+        "Last Seen": "2026-01-08T09:13:12.250213",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Dunkin'",
+        "Category": "Food & Beverage",
+        "URL": "https://dunkindonuts.com",
+        "Account Handle": "@dunkindonuts",
+        "First Seen": "2026-01-08T09:13:27.742401",
+        "Last Seen": "2026-01-08T09:13:27.742401",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "KFC",
+        "Category": "Food & Beverage",
+        "URL": "https://kfc.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Krispy Kreme",
+        "Category": "Food & Beverage",
+        "URL": "https://krispykreme.com",
+        "Account Handle": "@krispykreme",
+        "First Seen": "2026-01-08T09:13:34.298103",
+        "Last Seen": "2026-01-08T09:13:34.298103",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "McDonald's",
+        "Category": "Food & Beverage",
+        "URL": "https://mcdonalds.com",
+        "Account Handle": "@McDonalds",
+        "First Seen": "2026-01-08T09:13:35.330006",
+        "Last Seen": "2026-01-08T09:13:35.330006",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Panera Bread",
+        "Category": "Food & Beverage",
+        "URL": "https://panerabread.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Papa John's",
+        "Category": "Food & Beverage",
+        "URL": "https://papajohns.com",
+        "Account Handle": "@papajohns",
+        "First Seen": "2026-01-08T09:14:31.134006",
+        "Last Seen": "2026-01-08T09:14:31.134006",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Pizza Hut",
+        "Category": "Food & Beverage",
+        "URL": "https://pizzahut.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Starbucks",
+        "Category": "Food & Beverage",
+        "URL": "https://starbucks.com",
+        "Account Handle": "@starbucks",
+        "First Seen": "2026-01-08T09:14:43.142670",
+        "Last Seen": "2026-01-08T09:14:43.142670",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Subway",
+        "Category": "Food & Beverage",
+        "URL": "https://subway.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Taco Bell",
+        "Category": "Food & Beverage",
+        "URL": "https://tacobell.com",
+        "Account Handle": "@tacobell",
+        "First Seen": "2026-01-08T09:14:55.074747",
+        "Last Seen": "2026-01-08T09:14:55.074747",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wendy's",
+        "Category": "Food & Beverage",
+        "URL": "https://wendys.com",
+        "Account Handle": "@Wendys",
+        "First Seen": "2026-01-08T09:14:55.809576",
+        "Last Seen": "2026-01-08T09:14:55.809576",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Activision",
+        "Category": "Gaming",
+        "URL": "https://activision.com",
+        "Account Handle": "@activision",
+        "First Seen": "2026-01-08T09:14:56.689424",
+        "Last Seen": "2026-01-08T09:14:56.689424",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Blizzard",
+        "Category": "Gaming",
+        "URL": "https://blizzard.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "EA",
+        "Category": "Gaming",
+        "URL": "https://ea.com",
+        "Account Handle": "@ea",
+        "First Seen": "2026-01-08T09:15:02.926657",
+        "Last Seen": "2026-01-08T09:15:02.926657",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Epic Games",
+        "Category": "Gaming",
+        "URL": "https://epicgames.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Nintendo",
+        "Category": "Gaming",
+        "URL": "https://nintendo.com",
+        "Account Handle": "@NintendoAmerica",
+        "First Seen": "2026-01-08T09:15:09.021732",
+        "Last Seen": "2026-01-08T09:15:09.021732",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PlayStation",
+        "Category": "Gaming",
+        "URL": "https://playstation.com",
+        "Account Handle": "@PlayStation",
+        "First Seen": "2026-01-08T09:15:10.222518",
+        "Last Seen": "2026-01-08T09:15:10.222518",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Roblox",
+        "Category": "Gaming",
+        "URL": "https://roblox.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Steam",
+        "Category": "Gaming",
+        "URL": "https://steampowered.com",
+        "Account Handle": "@steam",
+        "First Seen": "2026-01-08T09:15:17.042404",
+        "Last Seen": "2026-01-08T09:15:17.042404",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Ubisoft",
+        "Category": "Gaming",
+        "URL": "https://ubisoft.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Xbox",
+        "Category": "Gaming",
+        "URL": "https://xbox.com",
+        "Account Handle": "@xbox",
+        "First Seen": "2026-01-08T09:15:22.685166",
+        "Last Seen": "2026-01-08T09:15:22.685166",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "DC Comics",
+        "Category": "Media",
+        "URL": "https://dccomics.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Discovery+",
+        "Category": "Media",
+        "URL": "https://discoveryplus.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Disney+",
+        "Category": "Media",
+        "URL": "https://disneyplus.com",
+        "Account Handle": "@disneyplus",
+        "First Seen": "2026-01-08T09:15:33.753706",
+        "Last Seen": "2026-01-08T09:15:33.753706",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Flickr",
+        "Category": "Media",
+        "URL": "https://flickr.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "HBO Max",
+        "Category": "Media",
+        "URL": "https://hbomax.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Hello Kitty",
+        "Category": "Media",
+        "URL": "https://hellokitty.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Hulu",
+        "Category": "Media",
+        "URL": "https://hulu.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "IMDb",
+        "Category": "Media",
+        "URL": "https://imdb.com",
+        "Account Handle": "@imdb",
+        "First Seen": "2026-01-08T09:15:52.607664",
+        "Last Seen": "2026-01-08T09:15:52.607664",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Marvel",
+        "Category": "Media",
+        "URL": "https://marvel.com",
+        "Account Handle": "@marvel",
+        "First Seen": "2026-01-08T09:15:53.191809",
+        "Last Seen": "2026-01-08T09:15:53.191809",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Medium",
+        "Category": "Media",
+        "URL": "https://medium.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Netflix",
+        "Category": "Media",
+        "URL": "https://netflix.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Paramount+",
+        "Category": "Media",
+        "URL": "https://paramountplus.com",
+        "Account Handle": "@paramountplus",
+        "First Seen": "2026-01-08T09:16:03.638947",
+        "Last Seen": "2026-01-08T09:16:03.638947",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Peacock",
+        "Category": "Media",
+        "URL": "https://peacocktv.com",
+        "Account Handle": "@peacock",
+        "First Seen": "2026-01-08T09:16:04.503467",
+        "Last Seen": "2026-01-08T09:16:04.503467",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Pok\u00e9mon",
+        "Category": "Media",
+        "URL": "https://pokemon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Prime Video",
+        "Category": "Media",
+        "URL": "https://primevideo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Sanrio",
+        "Category": "Media",
+        "URL": "https://sanrio.com",
+        "Account Handle": "@sanrio",
+        "First Seen": "2026-01-08T09:16:16.285411",
+        "Last Seen": "2026-01-08T09:16:16.285411",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Spotify",
+        "Category": "Media",
+        "URL": "spotify.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Star Wars",
+        "Category": "Media",
+        "URL": "https://starwars.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Twitch",
+        "Category": "Media",
+        "URL": "https://twitch.tv",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Vimeo",
+        "Category": "Media",
+        "URL": "https://vimeo.com",
+        "Account Handle": "@Vimeo",
+        "First Seen": "2026-01-08T09:16:25.998998",
+        "Last Seen": "2026-01-08T09:16:25.998998",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wirtualna Polska",
+        "Category": "Media",
+        "URL": "https://wp.pl",
+        "Account Handle": "@wirtualnapolska",
+        "First Seen": "2026-01-08T09:16:28.177022",
+        "Last Seen": "2026-01-08T09:16:28.177022",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Yahoo",
+        "Category": "Media",
+        "URL": "https://yahoo.com",
+        "Account Handle": "@yahoonews",
+        "First Seen": "2026-01-08T09:16:30.351932",
+        "Last Seen": "2026-01-08T09:16:30.351932",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Yahoo",
+        "Category": "Media",
+        "URL": "https://yahoo.co.jp",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "YouTube",
+        "Category": "Media",
+        "URL": "https://youtube.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "AccuWeather",
+        "Category": "News",
+        "URL": "https://accuweather.com",
+        "Account Handle": "@BreakingWeather",
+        "First Seen": "2026-01-08T09:16:45.278490",
+        "Last Seen": "2026-01-08T09:16:45.278490",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "BBC",
+        "Category": "News",
+        "URL": "https://bbc.co.uk",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "BBC",
+        "Category": "News",
+        "URL": "https://bbc.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bloomberg",
+        "Category": "News",
+        "URL": "https://bloomberg.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "CNBC",
+        "Category": "News",
+        "URL": "https://cnbc.com",
+        "Account Handle": "@cnbc",
+        "First Seen": "2026-01-08T09:16:59.880164",
+        "Last Seen": "2026-01-08T09:16:59.880164",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CNN",
+        "Category": "News",
+        "URL": "https://cnn.com",
+        "Account Handle": "@CNN",
+        "First Seen": "2026-01-08T09:17:01.051155",
+        "Last Seen": "2026-01-08T09:17:01.051155",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Forbes",
+        "Category": "News",
+        "URL": "https://forbes.com",
+        "Account Handle": "@Forbes",
+        "First Seen": "2026-01-08T09:17:01.848219",
+        "Last Seen": "2026-01-08T09:17:01.848219",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Fox News",
+        "Category": "News",
+        "URL": "https://foxnews.com",
+        "Account Handle": "@foxnews",
+        "First Seen": "2026-01-08T09:17:02.732679",
+        "Last Seen": "2026-01-08T09:17:02.732679",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "New York Times",
+        "Category": "News",
+        "URL": "https://nytimes.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Reuters",
+        "Category": "News",
+        "URL": "https://reuters.com",
+        "Account Handle": "@reuters",
+        "First Seen": "2026-01-08T11:17:12.189082",
+        "Last Seen": "2026-01-08T11:17:12.189082",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "The Weather Channel",
+        "Category": "News",
+        "URL": "https://weather.com",
+        "Account Handle": "@weatherchannel",
+        "First Seen": "2026-01-08T09:17:21.434691",
+        "Last Seen": "2026-01-08T09:17:21.434691",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wall Street Journal",
+        "Category": "News",
+        "URL": "https://wsj.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Washington Post",
+        "Category": "News",
+        "URL": "https://washingtonpost.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Wikipedia",
+        "Category": "Reference",
+        "URL": "https://wikipedia.org",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Aldi",
+        "Category": "Retail",
+        "URL": "https://aldi.us",
+        "Account Handle": "@AldiUSA",
+        "First Seen": "2026-01-08T09:17:41.437864",
+        "Last Seen": "2026-01-08T09:17:41.437864",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "AliExpress",
+        "Category": "Retail",
+        "URL": "https://aliexpress.com",
+        "Account Handle": "@AliExpress_EN",
+        "First Seen": "2026-01-08T11:17:15.001997",
+        "Last Seen": "2026-01-08T11:17:15.001997",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Alibaba",
+        "Category": "Retail",
+        "URL": "https://alibaba.com",
+        "Account Handle": "@AlibabaB2B",
+        "First Seen": "2026-01-08T09:17:52.673427",
+        "Last Seen": "2026-01-08T09:17:52.673427",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Amazon",
+        "Category": "Retail",
+        "URL": "https://amazon.co.jp",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Amazon",
+        "Category": "Retail",
+        "URL": "https://amazon.co.uk",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Amazon",
+        "Category": "Retail",
+        "URL": "https://amazon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Amazon",
+        "Category": "Retail",
+        "URL": "https://amazon.de",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Barneys",
+        "Category": "Retail",
+        "URL": "https://barneys.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Belk",
+        "Category": "Retail",
+        "URL": "https://belk.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bergdorf Goodman",
+        "Category": "Retail",
+        "URL": "https://bergdorfgoodman.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Best Buy",
+        "Category": "Retail",
+        "URL": "https://bestbuy.com",
+        "Account Handle": "@BestBuy",
+        "First Seen": "2026-01-08T09:20:11.478054",
+        "Last Seen": "2026-01-08T09:20:11.478054",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bloomingdale's",
+        "Category": "Retail",
+        "URL": "https://bloomingdales.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Burlington",
+        "Category": "Retail",
+        "URL": "https://burlington.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "CVS",
+        "Category": "Retail",
+        "URL": "https://cvs.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Costco",
+        "Category": "Retail",
+        "URL": "https://costco.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dillard's",
+        "Category": "Retail",
+        "URL": "https://dillards.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Etsy",
+        "Category": "Retail",
+        "URL": "https://etsy.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "H-E-B",
+        "Category": "Retail",
+        "URL": "https://heb.com",
+        "Account Handle": "@heb",
+        "First Seen": "2026-01-08T09:20:54.369480",
+        "Last Seen": "2026-01-08T09:20:54.369480",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Home Depot",
+        "Category": "Retail",
+        "URL": "https://homedepot.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "JCPenney",
+        "Category": "Retail",
+        "URL": "https://jcpenney.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "JD.com",
+        "Category": "Retail",
+        "URL": "https://jd.com",
+        "Account Handle": "@JD_Corporate",
+        "First Seen": "2026-01-08T09:21:06.403918",
+        "Last Seen": "2026-01-08T09:21:06.403918",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Kohl's",
+        "Category": "Retail",
+        "URL": "https://kohls.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Kroger",
+        "Category": "Retail",
+        "URL": "https://kroger.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Lidl",
+        "Category": "Retail",
+        "URL": "https://lidl.com",
+        "Account Handle": "@LIDLUS",
+        "First Seen": "2026-01-08T09:22:20.422494",
+        "Last Seen": "2026-01-08T09:22:20.422494",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lowe's",
+        "Category": "Retail",
+        "URL": "https://lowes.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Macy's",
+        "Category": "Retail",
+        "URL": "https://macys.com",
+        "Account Handle": "@macys",
+        "First Seen": "2026-01-08T11:17:14.098893",
+        "Last Seen": "2026-01-08T11:17:14.098893",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Marshalls",
+        "Category": "Retail",
+        "URL": "https://marshalls.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Neiman Marcus",
+        "Category": "Retail",
+        "URL": "https://neimanmarcus.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Nordstrom",
+        "Category": "Retail",
+        "URL": "https://nordstrom.com",
+        "Account Handle": "@nordstrom",
+        "First Seen": "2026-01-08T09:22:39.173942",
+        "Last Seen": "2026-01-08T09:22:39.173942",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Nordstrom Rack",
+        "Category": "Retail",
+        "URL": "https://nordstromrack.com",
+        "Account Handle": "@nordstromrack",
+        "First Seen": "2026-01-08T09:22:43.871739",
+        "Last Seen": "2026-01-08T09:22:43.871739",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Publix",
+        "Category": "Retail",
+        "URL": "https://publix.com",
+        "Account Handle": "@publix",
+        "First Seen": "2026-01-08T09:22:45.230776",
+        "Last Seen": "2026-01-08T09:22:45.230776",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Rakuten",
+        "Category": "Retail",
+        "URL": "https://rakuten.co.jp",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Rite Aid",
+        "Category": "Retail",
+        "URL": "https://riteaid.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Ross",
+        "Category": "Retail",
+        "URL": "https://rossstores.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Safeway",
+        "Category": "Retail",
+        "URL": "https://safeway.com",
+        "Account Handle": "@Safeway",
+        "First Seen": "2026-01-08T09:23:28.633962",
+        "Last Seen": "2026-01-08T09:23:28.633962",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Saks Fifth Avenue",
+        "Category": "Retail",
+        "URL": "https://saksfifthavenue.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Sephora",
+        "Category": "Retail",
+        "URL": "https://sephora.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "TJ Maxx",
+        "Category": "Retail",
+        "URL": "https://tjmaxx.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Taobao",
+        "Category": "Retail",
+        "URL": "https://taobao.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Target",
+        "Category": "Retail",
+        "URL": "https://target.com",
+        "Account Handle": "@Target",
+        "First Seen": "2026-01-08T09:23:55.181130",
+        "Last Seen": "2026-01-08T09:23:55.181130",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Tmall",
+        "Category": "Retail",
+        "URL": "https://tmall.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Trader Joe's",
+        "Category": "Retail",
+        "URL": "https://traderjoes.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Ulta Beauty",
+        "Category": "Retail",
+        "URL": "https://ultabeauty.com",
+        "Account Handle": "@ultabeauty",
+        "First Seen": "2026-01-08T09:24:12.997653",
+        "Last Seen": "2026-01-08T09:24:12.997653",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Walgreens",
+        "Category": "Retail",
+        "URL": "https://walgreens.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Walmart",
+        "Category": "Retail",
+        "URL": "https://walmart.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Wegmans",
+        "Category": "Retail",
+        "URL": "https://wegmans.com",
+        "Account Handle": "@wegmans",
+        "First Seen": "2026-01-08T09:24:26.041017",
+        "Last Seen": "2026-01-08T09:24:26.041017",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Whole Foods",
+        "Category": "Retail",
+        "URL": "https://wholefoodsmarket.com",
+        "Account Handle": "@wholefoods",
+        "First Seen": "2026-01-08T09:24:26.745027",
+        "Last Seen": "2026-01-08T09:24:26.745027",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wildberries",
+        "Category": "Retail",
+        "URL": "https://wildberries.ru",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "eBay",
+        "Category": "Retail",
+        "URL": "https://ebay.com",
+        "Account Handle": "@eBay",
+        "First Seen": "2026-01-08T09:24:38.618270",
+        "Last Seen": "2026-01-08T09:24:38.618270",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Discord",
+        "Category": "Social Media",
+        "URL": "https://discord.com",
+        "Account Handle": "@discord",
+        "First Seen": "2026-01-08T09:24:38.976925",
+        "Last Seen": "2026-01-08T09:24:38.976925",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Facebook",
+        "Category": "Social Media",
+        "URL": "https://facebook.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Instagram",
+        "Category": "Social Media",
+        "URL": "https://instagram.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "LINE",
+        "Category": "Social Media",
+        "URL": "https://line.me",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "LinkedIn",
+        "Category": "Social Media",
+        "URL": "https://linkedin.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Pinterest",
+        "Category": "Social Media",
+        "URL": "https://pinterest.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Quora",
+        "Category": "Social Media",
+        "URL": "https://quora.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Reddit",
+        "Category": "Social Media",
+        "URL": "https://reddit.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Telegram",
+        "Category": "Social Media",
+        "URL": "https://telegram.org",
+        "Account Handle": "@telegram",
+        "First Seen": "2026-01-08T09:25:12.973683",
+        "Last Seen": "2026-01-08T09:25:12.973683",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TikTok",
+        "Category": "Social Media",
+        "URL": "https://tiktok.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Tumblr",
+        "Category": "Social Media",
+        "URL": "https://tumblr.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "VK",
+        "Category": "Social Media",
+        "URL": "https://vk.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Weibo",
+        "Category": "Social Media",
+        "URL": "https://weibo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "WhatsApp",
+        "Category": "Social Media",
+        "URL": "https://whatsapp.com",
+        "Account Handle": "@whatsapp",
+        "First Seen": "2026-01-08T09:25:44.910410",
+        "Last Seen": "2026-01-08T09:25:44.910410",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "X",
+        "Category": "Social Media",
+        "URL": "https://x.com",
+        "Account Handle": "@tos",
+        "First Seen": "2026-01-08T09:25:45.337830",
+        "Last Seen": "2026-01-08T09:25:45.337830",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "X (Twitter)",
+        "Category": "Social Media",
+        "URL": "https://twitter.com",
+        "Account Handle": "@tos",
+        "First Seen": "2026-01-08T09:25:45.929729",
+        "Last Seen": "2026-01-08T09:25:45.929729",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Xiaohongshu",
+        "Category": "Social Media",
+        "URL": "https://xiaohongshu.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ESPN",
+        "Category": "Sports",
+        "URL": "https://espn.com",
+        "Account Handle": "@espn",
+        "First Seen": "2026-01-08T09:25:55.802702",
+        "Last Seen": "2026-01-08T09:25:55.802702",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "FIFA",
+        "Category": "Sports",
+        "URL": "https://fifa.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "MLB",
+        "Category": "Sports",
+        "URL": "https://mlb.com",
+        "Account Handle": "@mlb",
+        "First Seen": "2026-01-08T09:26:10.109857",
+        "Last Seen": "2026-01-08T09:26:10.109857",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NBA",
+        "Category": "Sports",
+        "URL": "https://nba.com",
+        "Account Handle": "@NBA",
+        "First Seen": "2026-01-08T09:26:11.334575",
+        "Last Seen": "2026-01-08T09:26:11.334575",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NFL",
+        "Category": "Sports",
+        "URL": "https://nfl.com",
+        "Account Handle": "@Lions",
+        "First Seen": "2026-01-08T09:26:12.655805",
+        "Last Seen": "2026-01-08T09:26:12.655805",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "360 Safe",
+        "Category": "Technology",
+        "URL": "https://360safe.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "AMD",
+        "Category": "Technology",
+        "URL": "https://amd.com",
+        "Account Handle": "@AMD",
+        "First Seen": "2026-01-08T09:27:09.015647",
+        "Last Seen": "2026-01-08T09:27:09.015647",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ASUS",
+        "Category": "Technology",
+        "URL": "https://asus.com",
+        "Account Handle": "@asus",
+        "First Seen": "2026-01-08T09:27:10.243248",
+        "Last Seen": "2026-01-08T09:27:10.243248",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Acer",
+        "Category": "Technology",
+        "URL": "https://acer.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Acronis",
+        "Category": "Technology",
+        "URL": "https://acronis.com",
+        "Account Handle": "@Acronis",
+        "First Seen": "2026-01-08T09:27:23.261476",
+        "Last Seen": "2026-01-08T09:27:23.261476",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Adobe",
+        "Category": "Technology",
+        "URL": "https://adobe.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Agora",
+        "Category": "Technology",
+        "URL": "https://agora.io",
+        "Account Handle": "@AgoraIO",
+        "First Seen": "2026-01-08T09:27:35.636384",
+        "Last Seen": "2026-01-08T09:27:35.636384",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Alibaba Cloud",
+        "Category": "Technology",
+        "URL": "https://aliyun.com",
+        "Account Handle": "@alibaba_cloud",
+        "First Seen": "2026-01-08T09:27:46.184629",
+        "Last Seen": "2026-01-08T09:27:46.184629",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Alienware",
+        "Category": "Technology",
+        "URL": "https://alienware.com",
+        "Account Handle": "@alienware",
+        "First Seen": "2026-01-08T09:27:48.074172",
+        "Last Seen": "2026-01-08T09:27:48.074172",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Amazon Alexa",
+        "Category": "Technology",
+        "URL": "https://amazonalexa.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Amplitude",
+        "Category": "Technology",
+        "URL": "https://amplitude.com",
+        "Account Handle": "@Amplitude_HQ",
+        "First Seen": "2026-01-08T09:28:00.859265",
+        "Last Seen": "2026-01-08T09:28:00.859265",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Analog Devices",
+        "Category": "Technology",
+        "URL": "https://analog.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Anthropic",
+        "Category": "Technology",
+        "URL": "https://anthropic.com",
+        "Account Handle": "@AnthropicAI",
+        "First Seen": "2026-01-08T09:28:16.834077",
+        "Last Seen": "2026-01-08T09:28:16.834077",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "AnyDesk",
+        "Category": "Technology",
+        "URL": "https://anydesk.com",
+        "Account Handle": "@anydesk",
+        "First Seen": "2026-01-08T09:28:17.504685",
+        "Last Seen": "2026-01-08T09:28:17.504685",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Apple",
+        "Category": "Technology",
+        "URL": "https://apple.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Apple",
+        "Category": "Technology",
+        "URL": "https://apple.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Apple",
+        "Category": "Technology",
+        "URL": "https://apple.news",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Asana",
+        "Category": "Technology",
+        "URL": "https://asana.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Atlassian",
+        "Category": "Technology",
+        "URL": "https://atlassian.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Baidu",
+        "Category": "Technology",
+        "URL": "https://baidu.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bing",
+        "Category": "Technology",
+        "URL": "https://bing.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bose",
+        "Category": "Technology",
+        "URL": "https://bose.com",
+        "Account Handle": "@bose",
+        "First Seen": "2026-01-08T09:28:59.367775",
+        "Last Seen": "2026-01-08T09:28:59.367775",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Box",
+        "Category": "Technology",
+        "URL": "https://box.com",
+        "Account Handle": "@box",
+        "First Seen": "2026-01-08T09:29:00.108980",
+        "Last Seen": "2026-01-08T09:29:00.108980",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Broadcom",
+        "Category": "Technology",
+        "URL": "https://broadcom.com",
+        "Account Handle": "@Broadcom",
+        "First Seen": "2026-01-08T09:29:04.892002",
+        "Last Seen": "2026-01-08T09:29:04.892002",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Canon",
+        "Category": "Technology",
+        "URL": "https://canon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Canva",
+        "Category": "Technology",
+        "URL": "https://canva.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Cisco",
+        "Category": "Technology",
+        "URL": "https://cisco.com",
+        "Account Handle": "@Cisco",
+        "First Seen": "2026-01-08T09:30:34.837384",
+        "Last Seen": "2026-01-08T09:30:34.837384",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Corsair",
+        "Category": "Technology",
+        "URL": "https://corsair.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "DJI",
+        "Category": "Technology",
+        "URL": "https://dji.com",
+        "Account Handle": "@djiglobal",
+        "First Seen": "2026-01-08T09:30:39.226866",
+        "Last Seen": "2026-01-08T09:30:39.226866",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Dell",
+        "Category": "Technology",
+        "URL": "https://dell.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "DoorDash",
+        "Category": "Technology",
+        "URL": "https://doordash.com",
+        "Account Handle": "@doordash",
+        "First Seen": "2026-01-08T11:17:18.339399",
+        "Last Seen": "2026-01-08T11:17:18.339399",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Dropbox",
+        "Category": "Technology",
+        "URL": "https://dropbox.com",
+        "Account Handle": "@Dropbox",
+        "First Seen": "2026-01-08T09:30:49.360869",
+        "Last Seen": "2026-01-08T09:30:49.360869",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "DuckDuckGo",
+        "Category": "Technology",
+        "URL": "https://duckduckgo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Ericsson",
+        "Category": "Technology",
+        "URL": "https://ericsson.com",
+        "Account Handle": "@Ericsson",
+        "First Seen": "2026-01-08T09:30:54.888069",
+        "Last Seen": "2026-01-08T09:30:54.888069",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Figma",
+        "Category": "Technology",
+        "URL": "https://figma.com",
+        "Account Handle": "@smee_leee",
+        "First Seen": "2026-01-08T09:30:56.113905",
+        "Last Seen": "2026-01-08T09:30:56.113905",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Fitbit",
+        "Category": "Technology",
+        "URL": "https://fitbit.com",
+        "Account Handle": "@madebygoogle",
+        "First Seen": "2026-01-08T09:31:03.495284",
+        "Last Seen": "2026-01-08T09:31:03.495284",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Garmin",
+        "Category": "Technology",
+        "URL": "https://garmin.com",
+        "Account Handle": "@garmin",
+        "First Seen": "2026-01-08T09:31:04.265521",
+        "Last Seen": "2026-01-08T09:31:04.265521",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Gateway",
+        "Category": "Technology",
+        "URL": "https://gateway.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Gigabyte",
+        "Category": "Technology",
+        "URL": "https://gigabyte.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "GitLab",
+        "Category": "Technology",
+        "URL": "https://gitlab.com",
+        "Account Handle": "@gitlab",
+        "First Seen": "2026-01-08T09:31:21.404386",
+        "Last Seen": "2026-01-08T09:31:21.404386",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "GitHub",
+        "Category": "Technology",
+        "URL": "https://github.com",
+        "Account Handle": "@github",
+        "First Seen": "2026-01-08T09:31:21.959387",
+        "Last Seen": "2026-01-08T09:31:21.959387",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "GoPro",
+        "Category": "Technology",
+        "URL": "https://gopro.com",
+        "Account Handle": "@gopro",
+        "First Seen": "2026-01-08T11:17:18.396377",
+        "Last Seen": "2026-01-08T11:17:18.396377",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.ca",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.co.jp",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.co.uk",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.com.br",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.de",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.es",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.fr",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.it",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Google",
+        "Category": "Technology",
+        "URL": "https://google.ru",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "HP",
+        "Category": "Technology",
+        "URL": "https://hp.com",
+        "Account Handle": "@HP",
+        "First Seen": "2026-01-08T09:32:22.339902",
+        "Last Seen": "2026-01-08T09:32:22.339902",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hugging Face",
+        "Category": "Technology",
+        "URL": "https://huggingface.co",
+        "Account Handle": "@huggingface",
+        "First Seen": "2026-01-08T09:32:22.664659",
+        "Last Seen": "2026-01-08T09:32:22.664659",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Huawei",
+        "Category": "Technology",
+        "URL": "https://huawei.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "HyperX",
+        "Category": "Technology",
+        "URL": "https://hyperx.com",
+        "Account Handle": "@hyperx",
+        "First Seen": "2026-01-08T09:32:40.947076",
+        "Last Seen": "2026-01-08T09:32:40.947076",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "IBM",
+        "Category": "Technology",
+        "URL": "https://ibm.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Infineon",
+        "Category": "Technology",
+        "URL": "https://infineon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Instacart",
+        "Category": "Technology",
+        "URL": "https://instacart.com",
+        "Account Handle": "@instacart",
+        "First Seen": "2026-01-08T09:32:56.328698",
+        "Last Seen": "2026-01-08T09:32:56.328698",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Intel",
+        "Category": "Technology",
+        "URL": "https://intel.com",
+        "Account Handle": "@intel",
+        "First Seen": "2026-01-08T09:33:02.349157",
+        "Last Seen": "2026-01-08T09:33:02.349157",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Kakao",
+        "Category": "Technology",
+        "URL": "https://kakao.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Kingston",
+        "Category": "Technology",
+        "URL": "https://kingston.com",
+        "Account Handle": "@kingstontech",
+        "First Seen": "2026-01-08T09:33:13.162634",
+        "Last Seen": "2026-01-08T09:33:13.162634",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "LG",
+        "Category": "Technology",
+        "URL": "https://lg.com",
+        "Account Handle": "@lgus",
+        "First Seen": "2026-01-08T09:33:15.425254",
+        "Last Seen": "2026-01-08T09:33:15.425254",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lenovo",
+        "Category": "Technology",
+        "URL": "https://lenovo.com",
+        "Account Handle": "@Lenovo",
+        "First Seen": "2026-01-08T09:33:16.512065",
+        "Last Seen": "2026-01-08T09:33:16.512065",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Logitech",
+        "Category": "Technology",
+        "URL": "https://logitech.com",
+        "Account Handle": "@Logitech",
+        "First Seen": "2026-01-08T09:33:17.552778",
+        "Last Seen": "2026-01-08T09:33:17.552778",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lyft",
+        "Category": "Technology",
+        "URL": "https://lyft.com",
+        "Account Handle": "@lyft",
+        "First Seen": "2026-01-08T09:33:18.266244",
+        "Last Seen": "2026-01-08T09:33:18.266244",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "MSI",
+        "Category": "Technology",
+        "URL": "https://msi.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Microchip",
+        "Category": "Technology",
+        "URL": "https://microchip.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Micron",
+        "Category": "Technology",
+        "URL": "https://micron.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Microsoft",
+        "Category": "Technology",
+        "URL": "https://microsoft.com",
+        "Account Handle": "@microsoft",
+        "First Seen": "2026-01-08T09:34:28.242240",
+        "Last Seen": "2026-01-08T09:34:28.242240",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Microsoft Windows",
+        "Category": "Technology",
+        "URL": "https://windows.com",
+        "Account Handle": "@windows",
+        "First Seen": "2026-01-08T09:34:30.071715",
+        "Last Seen": "2026-01-08T09:34:30.071715",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Midjourney",
+        "Category": "Technology",
+        "URL": "https://midjourney.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Motorola",
+        "Category": "Technology",
+        "URL": "https://motorola.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "NVIDIA",
+        "Category": "Technology",
+        "URL": "https://nvidia.com",
+        "Account Handle": "@nvidia",
+        "First Seen": "2026-01-08T09:34:42.024164",
+        "Last Seen": "2026-01-08T09:34:42.024164",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NXP",
+        "Category": "Technology",
+        "URL": "https://nxp.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Naver",
+        "Category": "Technology",
+        "URL": "https://naver.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Nikon",
+        "Category": "Technology",
+        "URL": "https://nikon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Nokia",
+        "Category": "Technology",
+        "URL": "https://nokia.com",
+        "Account Handle": "@nokia",
+        "First Seen": "2026-01-08T09:35:03.038715",
+        "Last Seen": "2026-01-08T09:35:03.038715",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Notion",
+        "Category": "Technology",
+        "URL": "https://notion.so",
+        "Account Handle": "@NotionHQ",
+        "First Seen": "2026-01-08T09:35:05.058676",
+        "Last Seen": "2026-01-08T09:35:05.058676",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "OnePlus",
+        "Category": "Technology",
+        "URL": "https://oneplus.com",
+        "Account Handle": "@oneplus_usa",
+        "First Seen": "2026-01-08T09:35:12.500945",
+        "Last Seen": "2026-01-08T09:35:12.500945",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Oppo",
+        "Category": "Technology",
+        "URL": "https://oppo.com",
+        "Account Handle": "@oppo",
+        "First Seen": "2026-01-08T09:35:14.097963",
+        "Last Seen": "2026-01-08T09:35:14.097963",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Oracle",
+        "Category": "Technology",
+        "URL": "https://oracle.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Qualcomm",
+        "Category": "Technology",
+        "URL": "https://qualcomm.com",
+        "Account Handle": "@qualcomm",
+        "First Seen": "2026-01-08T09:35:22.899483",
+        "Last Seen": "2026-01-08T09:35:22.899483",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Razer",
+        "Category": "Technology",
+        "URL": "https://razer.com",
+        "Account Handle": "@Razer",
+        "First Seen": "2026-01-08T09:35:23.898684",
+        "Last Seen": "2026-01-08T09:35:23.898684",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Realme",
+        "Category": "Technology",
+        "URL": "https://realme.com",
+        "Account Handle": "@realmeglobal",
+        "First Seen": "2026-01-08T09:35:27.582170",
+        "Last Seen": "2026-01-08T09:35:27.582170",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Renesas",
+        "Category": "Technology",
+        "URL": "https://renesas.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Roku",
+        "Category": "Technology",
+        "URL": "https://roku.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "STMicroelectronics",
+        "Category": "Technology",
+        "URL": "https://st.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Salesforce",
+        "Category": "Technology",
+        "URL": "https://salesforce.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Samsung",
+        "Category": "Technology",
+        "URL": "https://samsung.com",
+        "Account Handle": "@SamsungUS",
+        "First Seen": "2026-01-08T09:36:03.686321",
+        "Last Seen": "2026-01-08T09:36:03.686321",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Seagate",
+        "Category": "Technology",
+        "URL": "https://seagate.com",
+        "Account Handle": "@Seagate",
+        "First Seen": "2026-01-08T09:36:08.314898",
+        "Last Seen": "2026-01-08T09:36:08.314898",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Shopify",
+        "Category": "Technology",
+        "URL": "https://shopify.com",
+        "Account Handle": "@shopify",
+        "First Seen": "2026-01-08T09:36:09.007054",
+        "Last Seen": "2026-01-08T09:36:09.007054",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Slack",
+        "Category": "Technology",
+        "URL": "https://slack.com",
+        "Account Handle": "@slackhq",
+        "First Seen": "2026-01-08T09:36:09.617162",
+        "Last Seen": "2026-01-08T09:36:09.617162",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Sonos",
+        "Category": "Technology",
+        "URL": "https://sonos.com",
+        "Account Handle": "@sonos",
+        "First Seen": "2026-01-08T09:36:10.702841",
+        "Last Seen": "2026-01-08T09:36:10.702841",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Sony",
+        "Category": "Technology",
+        "URL": "https://sony.com",
+        "Account Handle": "@Sony",
+        "First Seen": "2026-01-08T11:17:22.338155",
+        "Last Seen": "2026-01-08T11:17:22.338155",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Squarespace",
+        "Category": "Technology",
+        "URL": "https://squarespace.com",
+        "Account Handle": "@squarespace",
+        "First Seen": "2026-01-08T09:36:15.562808",
+        "Last Seen": "2026-01-08T09:36:15.562808",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Stability AI",
+        "Category": "Technology",
+        "URL": "https://stability.ai",
+        "Account Handle": "@StabilityAI",
+        "First Seen": "2026-01-08T09:36:16.187318",
+        "Last Seen": "2026-01-08T09:36:16.187318",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Stack Overflow",
+        "Category": "Technology",
+        "URL": "https://stackoverflow.com",
+        "Account Handle": "@stackoverflow",
+        "First Seen": "2026-01-08T09:36:16.807968",
+        "Last Seen": "2026-01-08T09:36:16.807968",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SteelSeries",
+        "Category": "Technology",
+        "URL": "https://steelseries.com",
+        "Account Handle": "@steelseries",
+        "First Seen": "2026-01-08T09:36:17.549207",
+        "Last Seen": "2026-01-08T09:36:17.549207",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TSMC",
+        "Category": "Technology",
+        "URL": "https://tsmc.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Tencent",
+        "Category": "Technology",
+        "URL": "https://qq.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Texas Instruments",
+        "Category": "Technology",
+        "URL": "https://ti.com",
+        "Account Handle": "@txinstruments",
+        "First Seen": "2026-01-08T09:36:36.064280",
+        "Last Seen": "2026-01-08T09:36:36.064280",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Trello",
+        "Category": "Technology",
+        "URL": "https://trello.com",
+        "Account Handle": "@trello",
+        "First Seen": "2026-01-08T09:36:36.421160",
+        "Last Seen": "2026-01-08T09:36:36.421160",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Turtle Beach",
+        "Category": "Technology",
+        "URL": "https://turtlebeach.com",
+        "Account Handle": "@turtlebeach",
+        "First Seen": "2026-01-08T09:36:41.960972",
+        "Last Seen": "2026-01-08T09:36:41.960972",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Uber",
+        "Category": "Technology",
+        "URL": "https://uber.com",
+        "Account Handle": "@uber",
+        "First Seen": "2026-01-08T09:36:47.119208",
+        "Last Seen": "2026-01-08T09:36:47.119208",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Vivo",
+        "Category": "Technology",
+        "URL": "https://vivo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Western Digital",
+        "Category": "Technology",
+        "URL": "https://westernfiles.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Wix",
+        "Category": "Technology",
+        "URL": "https://wix.com",
+        "Account Handle": "@wix",
+        "First Seen": "2026-01-08T09:36:57.327356",
+        "Last Seen": "2026-01-08T09:36:57.327356",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "WordPress",
+        "Category": "Technology",
+        "URL": "https://wordpress.com",
+        "Account Handle": "@wordpressdotcom",
+        "First Seen": "2026-01-08T09:36:57.710606",
+        "Last Seen": "2026-01-08T09:36:57.710606",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Xiaomi",
+        "Category": "Technology",
+        "URL": "https://xiaomi.com",
+        "Account Handle": "@xiaomisupport",
+        "First Seen": "2026-01-08T09:37:00.973168",
+        "Last Seen": "2026-01-08T09:37:00.973168",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Yammer",
+        "Category": "Technology",
+        "URL": "https://yammer.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Yandex",
+        "Category": "Technology",
+        "URL": "https://yandex.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Yandex",
+        "Category": "Technology",
+        "URL": "https://yandex.ru",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Zendesk",
+        "Category": "Technology",
+        "URL": "https://zendesk.com",
+        "Account Handle": "@zendesk",
+        "First Seen": "2026-01-08T09:37:31.120881",
+        "Last Seen": "2026-01-08T09:37:31.120881",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Zoho",
+        "Category": "Technology",
+        "URL": "https://zoho.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Zoom",
+        "Category": "Technology",
+        "URL": "https://zoom.us",
+        "Account Handle": "@zoom",
+        "First Seen": "2026-01-08T09:37:37.431565",
+        "Last Seen": "2026-01-08T09:37:37.431565",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "onsemi",
+        "Category": "Technology",
+        "URL": "https://onsemi.com",
+        "Account Handle": "@onsemi",
+        "First Seen": "2026-01-08T09:37:42.691635",
+        "Last Seen": "2026-01-08T09:37:42.691635",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bandai",
+        "Category": "Toys",
+        "URL": "https://bandai.com",
+        "Account Handle": "@bandaicollect",
+        "First Seen": "2026-01-08T09:37:43.441634",
+        "Last Seen": "2026-01-08T09:37:43.441634",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Funko",
+        "Category": "Toys",
+        "URL": "https://funko.com",
+        "Account Handle": "@OriginalFunko",
+        "First Seen": "2026-01-08T09:37:44.101727",
+        "Last Seen": "2026-01-08T09:37:44.101727",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hasbro",
+        "Category": "Toys",
+        "URL": "https://hasbro.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "LEGO",
+        "Category": "Toys",
+        "URL": "https://lego.com",
+        "Account Handle": "@LEGO_Group",
+        "First Seen": "2026-01-08T09:37:51.192834",
+        "Last Seen": "2026-01-08T09:37:51.192834",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mattel",
+        "Category": "Toys",
+        "URL": "https://mattel.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Airbnb",
+        "Category": "Travel",
+        "URL": "https://airbnb.com",
+        "Account Handle": "@airbnb",
+        "First Seen": "2026-01-08T09:38:02.600285",
+        "Last Seen": "2026-01-08T09:38:02.600285",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Booking.com",
+        "Category": "Travel",
+        "URL": "https://booking.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Expedia",
+        "Category": "Travel",
+        "URL": "https://expedia.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "TripAdvisor",
+        "Category": "Travel",
+        "URL": "https://tripadvisor.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Autohome",
+        "Category": "Automotive",
+        "URL": "https://autohome.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Khan Academy",
+        "Category": "Education",
+        "URL": "https://khanacademy.org",
+        "Account Handle": "@khanacademy",
+        "First Seen": "2026-01-08T09:38:42.663962",
+        "Last Seen": "2026-01-08T09:38:42.663962",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Quizlet",
+        "Category": "Education",
+        "URL": "https://quizlet.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Udemy",
+        "Category": "Education",
+        "URL": "https://udemy.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Binance",
+        "Category": "Finance",
+        "URL": "https://binance.com",
+        "Account Handle": "@binance",
+        "First Seen": "2026-01-08T09:38:55.650380",
+        "Last Seen": "2026-01-08T09:38:55.650380",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Coinbase",
+        "Category": "Finance",
+        "URL": "https://coinbase.com",
+        "Account Handle": "@coinbase",
+        "First Seen": "2026-01-08T09:38:56.539312",
+        "Last Seen": "2026-01-08T09:38:56.539312",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CoinMarketCap",
+        "Category": "Finance",
+        "URL": "https://coinmarketcap.com",
+        "Account Handle": "@CoinMarketCap",
+        "First Seen": "2026-01-08T09:38:56.945466",
+        "Last Seen": "2026-01-08T09:38:56.945466",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Intuit",
+        "Category": "Finance",
+        "URL": "https://intuit.com",
+        "Account Handle": "@Intuit",
+        "First Seen": "2026-01-08T09:39:01.978479",
+        "Last Seen": "2026-01-08T09:39:01.978479",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Investopedia",
+        "Category": "Finance",
+        "URL": "https://investopedia.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "MarketWatch",
+        "Category": "Finance",
+        "URL": "https://marketwatch.com",
+        "Account Handle": "@marketwatch",
+        "First Seen": "2026-01-08T11:17:23.976528",
+        "Last Seen": "2026-01-08T11:17:23.976528",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mastercard",
+        "Category": "Finance",
+        "URL": "https://mastercard.com",
+        "Account Handle": "@mastercardnews",
+        "First Seen": "2026-01-08T11:17:24.560556",
+        "Last Seen": "2026-01-08T11:17:24.560556",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Revolut",
+        "Category": "Finance",
+        "URL": "https://revolut.com",
+        "Account Handle": "@Revolut",
+        "First Seen": "2026-01-08T09:39:15.645112",
+        "Last Seen": "2026-01-08T09:39:15.645112",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TradingView",
+        "Category": "Finance",
+        "URL": "https://tradingview.com",
+        "Account Handle": "@tradingview",
+        "First Seen": "2026-01-08T09:39:16.425304",
+        "Last Seen": "2026-01-08T09:39:16.425304",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Visa",
+        "Category": "Finance",
+        "URL": "https://visa.com",
+        "Account Handle": "@visa",
+        "First Seen": "2026-01-08T09:39:21.602740",
+        "Last Seen": "2026-01-08T09:39:21.602740",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wise",
+        "Category": "Finance",
+        "URL": "https://wise.com",
+        "Account Handle": "@wise",
+        "First Seen": "2026-01-08T09:39:23.191400",
+        "Last Seen": "2026-01-08T09:39:23.191400",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Red Bull",
+        "Category": "Food & Beverage",
+        "URL": "https://redbull.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Battle.net",
+        "Category": "Gaming",
+        "URL": "https://battle.net",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Chess.com",
+        "Category": "Gaming",
+        "URL": "https://chess.com",
+        "Account Handle": "@chesscom",
+        "First Seen": "2026-01-08T09:39:36.260575",
+        "Last Seen": "2026-01-08T09:39:36.260575",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Steam Community",
+        "Category": "Gaming",
+        "URL": "https://steamcommunity.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Healthline",
+        "Category": "Healthcare",
+        "URL": "https://healthline.com",
+        "Account Handle": "@healthline",
+        "First Seen": "2026-01-08T09:39:52.556790",
+        "Last Seen": "2026-01-08T09:39:52.556790",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mayo Clinic",
+        "Category": "Healthcare",
+        "URL": "https://mayoclinic.org",
+        "Account Handle": "@mayoclinic",
+        "First Seen": "2026-01-08T09:39:53.605114",
+        "Last Seen": "2026-01-08T09:39:53.605114",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "WebMD",
+        "Category": "Healthcare",
+        "URL": "https://webmd.com",
+        "Account Handle": "@webmd",
+        "First Seen": "2026-01-08T09:39:58.754189",
+        "Last Seen": "2026-01-08T09:39:58.754189",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "56.com",
+        "Category": "Media",
+        "URL": "https://56.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Axel Springer",
+        "Category": "Media",
+        "URL": "https://axelspringer.com",
+        "Account Handle": "@share",
+        "First Seen": "2026-01-08T09:40:15.539209",
+        "Last Seen": "2026-01-08T09:40:15.539209",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bandcamp",
+        "Category": "Media",
+        "URL": "https://bandcamp.com",
+        "Account Handle": "@bandcamp",
+        "First Seen": "2026-01-08T09:40:16.060266",
+        "Last Seen": "2026-01-08T09:40:16.060266",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bilibili",
+        "Category": "Media",
+        "URL": "https://bilibili.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bilibili",
+        "Category": "Media",
+        "URL": "https://b23.tv",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "CBS",
+        "Category": "Media",
+        "URL": "https://cbs.com",
+        "Account Handle": "@cbs",
+        "First Seen": "2026-01-08T09:40:28.918430",
+        "Last Seen": "2026-01-08T09:40:28.918430",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Crunchyroll",
+        "Category": "Media",
+        "URL": "https://crunchyroll.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dailymotion",
+        "Category": "Media",
+        "URL": "https://dailymotion.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Daum",
+        "Category": "Media",
+        "URL": "https://daum.net",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Deezer",
+        "Category": "Media",
+        "URL": "https://deezer.com",
+        "Account Handle": "@Deezer",
+        "First Seen": "2026-01-08T09:40:50.432554",
+        "Last Seen": "2026-01-08T09:40:50.432554",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Digg",
+        "Category": "Media",
+        "URL": "https://digg.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Docin",
+        "Category": "Media",
+        "URL": "https://docin.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dreamstime",
+        "Category": "Media",
+        "URL": "https://dreamstime.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "E! Online",
+        "Category": "Media",
+        "URL": "https://eonline.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Fandom",
+        "Category": "Media",
+        "URL": "https://fandom.com",
+        "Account Handle": "@getfandom",
+        "First Seen": "2026-01-08T09:41:18.622786",
+        "Last Seen": "2026-01-08T09:41:18.622786",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Fox",
+        "Category": "Media",
+        "URL": "https://fox.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Freepik",
+        "Category": "Media",
+        "URL": "https://freepik.com",
+        "Account Handle": "@freepik",
+        "First Seen": "2026-01-08T09:41:24.766929",
+        "Last Seen": "2026-01-08T09:41:24.766929",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Genius",
+        "Category": "Media",
+        "URL": "https://genius.com",
+        "Account Handle": "@Genius",
+        "First Seen": "2026-01-08T09:41:25.171595",
+        "Last Seen": "2026-01-08T09:41:25.171595",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "GIPHY",
+        "Category": "Media",
+        "URL": "https://giphy.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Goodreads",
+        "Category": "Media",
+        "URL": "https://goodreads.com",
+        "Account Handle": "@goodreads",
+        "First Seen": "2026-01-08T09:41:29.458917",
+        "Last Seen": "2026-01-08T09:41:29.458917",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Ifeng",
+        "Category": "Media",
+        "URL": "https://ifeng.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "iHeartRadio",
+        "Category": "Media",
+        "URL": "https://iheart.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Imgur",
+        "Category": "Media",
+        "URL": "https://imgur.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "iQIYI",
+        "Category": "Media",
+        "URL": "https://iqiyi.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Issuu",
+        "Category": "Media",
+        "URL": "https://issuu.com",
+        "Account Handle": "@issuu",
+        "First Seen": "2026-01-08T09:41:58.023821",
+        "Last Seen": "2026-01-08T09:41:58.023821",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Last.fm",
+        "Category": "Media",
+        "URL": "https://last.fm",
+        "Account Handle": "@lastfm",
+        "First Seen": "2026-01-08T09:41:58.791291",
+        "Last Seen": "2026-01-08T09:41:58.791291",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mixcloud",
+        "Category": "Media",
+        "URL": "https://mixcloud.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "National Geographic",
+        "Category": "Media",
+        "URL": "https://nationalgeographic.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "NBCUniversal",
+        "Category": "Media",
+        "URL": "https://nbcuni.com",
+        "Account Handle": "@nbcuniversal",
+        "First Seen": "2026-01-08T09:42:09.921131",
+        "Last Seen": "2026-01-08T09:42:09.921131",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PBS",
+        "Category": "Media",
+        "URL": "https://pbs.org",
+        "Account Handle": "@PBS",
+        "First Seen": "2026-01-08T09:42:12.398718",
+        "Last Seen": "2026-01-08T09:42:12.398718",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "People",
+        "Category": "Media",
+        "URL": "https://people.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Pixabay",
+        "Category": "Media",
+        "URL": "https://pixabay.com",
+        "Account Handle": "@pixabay",
+        "First Seen": "2026-01-08T09:42:17.224316",
+        "Last Seen": "2026-01-08T09:42:17.224316",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Psychology Today",
+        "Category": "Media",
+        "URL": "https://psychologytoday.com",
+        "Account Handle": "@psychtoday",
+        "First Seen": "2026-01-08T09:42:18.113750",
+        "Last Seen": "2026-01-08T09:42:18.113750",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Rotten Tomatoes",
+        "Category": "Media",
+        "URL": "https://rottentomatoes.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Scribd",
+        "Category": "Media",
+        "URL": "https://scribd.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Shutterstock",
+        "Category": "Media",
+        "URL": "https://shutterstock.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Sina",
+        "Category": "Media",
+        "URL": "https://sina.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "SlideShare",
+        "Category": "Media",
+        "URL": "https://slideshare.net",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "SoundCloud",
+        "Category": "Media",
+        "URL": "https://soundcloud.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Statista",
+        "Category": "Media",
+        "URL": "https://statista.com",
+        "Account Handle": "@StatistaCharts",
+        "First Seen": "2026-01-08T09:43:01.861720",
+        "Last Seen": "2026-01-08T09:43:01.861720",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TED",
+        "Category": "Media",
+        "URL": "https://ted.com",
+        "Account Handle": "@tedtalks",
+        "First Seen": "2026-01-08T09:43:02.795692",
+        "Last Seen": "2026-01-08T09:43:02.795692",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "The New Yorker",
+        "Category": "Media",
+        "URL": "https://newyorker.com",
+        "Account Handle": "@NewYorker",
+        "First Seen": "2026-01-08T09:43:03.917671",
+        "Last Seen": "2026-01-08T09:43:03.917671",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "The Verge",
+        "Category": "Media",
+        "URL": "https://theverge.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "TIME",
+        "Category": "Media",
+        "URL": "https://time.com",
+        "Account Handle": "@time",
+        "First Seen": "2026-01-08T09:43:10.143044",
+        "Last Seen": "2026-01-08T09:43:10.143044",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Unsplash",
+        "Category": "Media",
+        "URL": "https://unsplash.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Vice",
+        "Category": "Media",
+        "URL": "https://vice.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Vogue",
+        "Category": "Media",
+        "URL": "https://vogue.com",
+        "Account Handle": "@voguemagazine",
+        "First Seen": "2026-01-08T09:43:21.375143",
+        "Last Seen": "2026-01-08T09:43:21.375143",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wattpad",
+        "Category": "Media",
+        "URL": "https://wattpad.com",
+        "Account Handle": "@wattpad",
+        "First Seen": "2026-01-08T09:43:22.209903",
+        "Last Seen": "2026-01-08T09:43:22.209903",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wikia",
+        "Category": "Media",
+        "URL": "https://wikia.com",
+        "Account Handle": "@getfandom",
+        "First Seen": "2026-01-08T09:43:23.184084",
+        "Last Seen": "2026-01-08T09:43:23.184084",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wired",
+        "Category": "Media",
+        "URL": "https://wired.com",
+        "Account Handle": "@wired",
+        "First Seen": "2026-01-08T09:43:24.128880",
+        "Last Seen": "2026-01-08T09:43:24.128880",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Youku",
+        "Category": "Media",
+        "URL": "https://youku.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Eastday",
+        "Category": "News",
+        "URL": "https://eastday.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "HuffPost",
+        "Category": "News",
+        "URL": "https://huffpost.com",
+        "Account Handle": "@HuffPost",
+        "First Seen": "2026-01-08T09:43:52.516026",
+        "Last Seen": "2026-01-08T09:43:52.516026",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "IndiaTimes",
+        "Category": "News",
+        "URL": "https://indiatimes.com",
+        "Account Handle": "@indiatimes",
+        "First Seen": "2026-01-08T09:43:54.164241",
+        "Last Seen": "2026-01-08T09:43:54.164241",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "LA Times",
+        "Category": "News",
+        "URL": "https://latimes.com",
+        "Account Handle": "@latimes",
+        "First Seen": "2026-01-08T09:43:55.531758",
+        "Last Seen": "2026-01-08T09:43:55.531758",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "MSN",
+        "Category": "News",
+        "URL": "https://msn.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "NBC News",
+        "Category": "News",
+        "URL": "https://nbcnews.com",
+        "Account Handle": "@nbcnews",
+        "First Seen": "2026-01-08T09:44:01.099808",
+        "Last Seen": "2026-01-08T09:44:01.099808",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NPR",
+        "Category": "News",
+        "URL": "https://npr.org",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "The Guardian",
+        "Category": "News",
+        "URL": "https://theguardian.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "The Independent",
+        "Category": "News",
+        "URL": "https://independent.co.uk",
+        "Account Handle": "@Independent",
+        "First Seen": "2026-01-08T09:44:14.594552",
+        "Last Seen": "2026-01-08T09:44:14.594552",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Toutiao",
+        "Category": "News",
+        "URL": "https://toutiao.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "USA Today",
+        "Category": "News",
+        "URL": "https://usatoday.com",
+        "Account Handle": "@usatoday",
+        "First Seen": "2026-01-08T09:44:25.372702",
+        "Last Seen": "2026-01-08T09:44:25.372702",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Baike.com",
+        "Category": "Reference",
+        "URL": "https://baike.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dao123",
+        "Category": "Reference",
+        "URL": "https://dao123.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Hao123",
+        "Category": "Reference",
+        "URL": "https://hao123.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "wikiHow",
+        "Category": "Reference",
+        "URL": "https://wikihow.com",
+        "Account Handle": "@wikihow",
+        "First Seen": "2026-01-08T09:44:36.704064",
+        "Last Seen": "2026-01-08T09:44:36.704064",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wikimedia",
+        "Category": "Reference",
+        "URL": "https://wikimedia.org",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Carousell",
+        "Category": "Retail",
+        "URL": "https://carousell.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ClickBank",
+        "Category": "Retail",
+        "URL": "https://clickbank.com",
+        "Account Handle": "@ClickBank",
+        "First Seen": "2026-01-08T09:44:44.128605",
+        "Last Seen": "2026-01-08T09:44:44.128605",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Craigslist",
+        "Category": "Retail",
+        "URL": "https://craigslist.org",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "eBay Australia",
+        "Category": "Retail",
+        "URL": "https://ebay.net.au",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "eBay France",
+        "Category": "Retail",
+        "URL": "https://ebay.fr",
+        "Account Handle": "@eBay_FR",
+        "First Seen": "2026-01-08T09:45:43.245076",
+        "Last Seen": "2026-01-08T09:45:43.245076",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "eBay Germany",
+        "Category": "Retail",
+        "URL": "https://ebay.de",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "eBay Italy",
+        "Category": "Retail",
+        "URL": "https://ebay.it",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "eBay UK",
+        "Category": "Retail",
+        "URL": "https://ebay.co.uk",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Flipkart",
+        "Category": "Retail",
+        "URL": "https://flipkart.com",
+        "Account Handle": "@flipkart",
+        "First Seen": "2026-01-08T09:46:06.047310",
+        "Last Seen": "2026-01-08T09:46:06.047310",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Groupon",
+        "Category": "Retail",
+        "URL": "https://groupon.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Gumtree",
+        "Category": "Retail",
+        "URL": "https://gumtree.com",
+        "Account Handle": "@Gumtree",
+        "First Seen": "2026-01-08T09:46:53.836062",
+        "Last Seen": "2026-01-08T09:46:53.836062",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "JD.com HK",
+        "Category": "Retail",
+        "URL": "https://jd.hk",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Mercado Libre",
+        "Category": "Retail",
+        "URL": "https://mercadolibre.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Pinduoduo",
+        "Category": "Retail",
+        "URL": "https://pinduoduo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Rakuten",
+        "Category": "Retail",
+        "URL": "https://rakuten.com",
+        "Account Handle": "@Rakuten",
+        "First Seen": "2026-01-08T09:47:15.930376",
+        "Last Seen": "2026-01-08T09:47:15.930376",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Target Australia",
+        "Category": "Retail",
+        "URL": "https://target.com.au",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Vipshop",
+        "Category": "Retail",
+        "URL": "https://vip.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Walmart Canada",
+        "Category": "Retail",
+        "URL": "https://walmart.ca",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Wayfair",
+        "Category": "Retail",
+        "URL": "https://wayfair.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Babytree",
+        "Category": "Social Media",
+        "URL": "https://babytree.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Behance",
+        "Category": "Social Media",
+        "URL": "https://behance.net",
+        "Account Handle": "@behance",
+        "First Seen": "2026-01-08T11:17:30.381660",
+        "Last Seen": "2026-01-08T11:17:30.381660",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Blogger",
+        "Category": "Social Media",
+        "URL": "https://blogspot.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Change.org",
+        "Category": "Social Media",
+        "URL": "https://change.org",
+        "Account Handle": "@Change",
+        "First Seen": "2026-01-08T09:48:13.861740",
+        "Last Seen": "2026-01-08T09:48:13.861740",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Douban",
+        "Category": "Social Media",
+        "URL": "https://douban.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Douyin",
+        "Category": "Social Media",
+        "URL": "https://douyin.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dribbble",
+        "Category": "Social Media",
+        "URL": "https://dribbble.com",
+        "Account Handle": "@dribbble",
+        "First Seen": "2026-01-08T09:48:41.127002",
+        "Last Seen": "2026-01-08T09:48:41.127002",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Kuaishou",
+        "Category": "Social Media",
+        "URL": "https://kuaishou.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "LiveJournal",
+        "Category": "Social Media",
+        "URL": "https://livejournal.com",
+        "Account Handle": "@LiveJournal",
+        "First Seen": "2026-01-08T09:48:53.918588",
+        "Last Seen": "2026-01-08T09:48:53.918588",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Meetup",
+        "Category": "Social Media",
+        "URL": "https://meetup.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Messenger",
+        "Category": "Social Media",
+        "URL": "https://messenger.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "WeChat",
+        "Category": "Social Media",
+        "URL": "https://wechat.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Zhihu",
+        "Category": "Social Media",
+        "URL": "https://zhihu.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ESPN UK",
+        "Category": "Sports",
+        "URL": "https://espn.co.uk",
+        "Account Handle": "@espnuk",
+        "First Seen": "2026-01-08T09:49:19.515396",
+        "Last Seen": "2026-01-08T09:49:19.515396",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hupu",
+        "Category": "Sports",
+        "URL": "https://hupu.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "MLB.tv",
+        "Category": "Sports",
+        "URL": "https://mlb.tv",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "360 Security",
+        "Category": "Technology",
+        "URL": "https://360.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ASUS",
+        "Category": "Technology",
+        "URL": "https://asus.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Avast",
+        "Category": "Technology",
+        "URL": "https://avast.com",
+        "Account Handle": "@Avast",
+        "First Seen": "2026-01-08T09:50:07.569745",
+        "Last Seen": "2026-01-08T09:50:07.569745",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "AVG",
+        "Category": "Technology",
+        "URL": "https://avg.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Avira",
+        "Category": "Technology",
+        "URL": "https://avira.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bitdefender",
+        "Category": "Technology",
+        "URL": "https://bitdefender.com",
+        "Account Handle": "@bitdefender",
+        "First Seen": "2026-01-08T09:50:21.560256",
+        "Last Seen": "2026-01-08T09:50:21.560256",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bitly",
+        "Category": "Technology",
+        "URL": "https://bit.ly",
+        "Account Handle": "@bitly",
+        "First Seen": "2026-01-08T09:50:22.252712",
+        "Last Seen": "2026-01-08T09:50:22.252712",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Brevo",
+        "Category": "Technology",
+        "URL": "https://brevo.com",
+        "Account Handle": "@brevo_official",
+        "First Seen": "2026-01-08T09:50:27.472144",
+        "Last Seen": "2026-01-08T09:50:27.472144",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Calendly",
+        "Category": "Technology",
+        "URL": "https://calendly.com",
+        "Account Handle": "@calendly",
+        "First Seen": "2026-01-08T09:50:27.998521",
+        "Last Seen": "2026-01-08T09:50:27.998521",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CJ Affiliate",
+        "Category": "Technology",
+        "URL": "https://cj.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Constant Contact",
+        "Category": "Technology",
+        "URL": "https://constantcontact.com",
+        "Account Handle": "@constantcontact",
+        "First Seen": "2026-01-08T09:50:29.770537",
+        "Last Seen": "2026-01-08T09:50:29.770537",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Coupa",
+        "Category": "Technology",
+        "URL": "https://coupa.com",
+        "Account Handle": "@Coupa",
+        "First Seen": "2026-01-08T09:50:30.650205",
+        "Last Seen": "2026-01-08T09:50:30.650205",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Cvent",
+        "Category": "Technology",
+        "URL": "https://cvent.com",
+        "Account Handle": "@cvent",
+        "First Seen": "2026-01-08T09:50:31.511159",
+        "Last Seen": "2026-01-08T09:50:31.511159",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CyberLink",
+        "Category": "Technology",
+        "URL": "https://cyberlink.com",
+        "Account Handle": "@cyberlink",
+        "First Seen": "2026-01-08T09:50:33.000825",
+        "Last Seen": "2026-01-08T09:50:33.000825",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "DigitalOcean",
+        "Category": "Technology",
+        "URL": "https://digitalocean.com",
+        "Account Handle": "@digitalocean",
+        "First Seen": "2026-01-08T09:50:33.624046",
+        "Last Seen": "2026-01-08T09:50:33.624046",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "DocuSign",
+        "Category": "Technology",
+        "URL": "https://docusign.com",
+        "Account Handle": "@docusign",
+        "First Seen": "2026-01-08T09:50:34.747550",
+        "Last Seen": "2026-01-08T09:50:34.747550",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Eventbrite",
+        "Category": "Technology",
+        "URL": "https://eventbrite.com",
+        "Account Handle": "@eventbritehelp",
+        "First Seen": "2026-01-08T09:50:35.813974",
+        "Last Seen": "2026-01-08T09:50:35.813974",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Evernote",
+        "Category": "Technology",
+        "URL": "https://evernote.com",
+        "Account Handle": "@evernote",
+        "First Seen": "2026-01-08T09:50:36.229991",
+        "Last Seen": "2026-01-08T09:50:36.229991",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Feedly",
+        "Category": "Technology",
+        "URL": "https://feedly.com",
+        "Account Handle": "@feedly",
+        "First Seen": "2026-01-08T09:50:36.524563",
+        "Last Seen": "2026-01-08T09:50:36.524563",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Fiverr",
+        "Category": "Technology",
+        "URL": "https://fiverr.com",
+        "Account Handle": "@fiverr",
+        "First Seen": "2026-01-08T11:17:31.545661",
+        "Last Seen": "2026-01-08T11:17:31.545661",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "G2",
+        "Category": "Technology",
+        "URL": "https://g2.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Glassdoor",
+        "Category": "Technology",
+        "URL": "https://glassdoor.com",
+        "Account Handle": "@Glassdoor",
+        "First Seen": "2026-01-08T09:50:47.068677",
+        "Last Seen": "2026-01-08T09:50:47.068677",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "GoDaddy",
+        "Category": "Technology",
+        "URL": "https://godaddy.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Grammarly",
+        "Category": "Technology",
+        "URL": "https://grammarly.com",
+        "Account Handle": "@grammarly",
+        "First Seen": "2026-01-08T09:50:51.608313",
+        "Last Seen": "2026-01-08T09:50:51.608313",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "HERE Technologies",
+        "Category": "Technology",
+        "URL": "https://here.com",
+        "Account Handle": "@HERE",
+        "First Seen": "2026-01-08T09:50:52.418840",
+        "Last Seen": "2026-01-08T09:50:52.418840",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hootsuite",
+        "Category": "Technology",
+        "URL": "https://hootsuite.com",
+        "Account Handle": "@hootsuite",
+        "First Seen": "2026-01-08T09:50:53.220684",
+        "Last Seen": "2026-01-08T09:50:53.220684",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "HubSpot",
+        "Category": "Technology",
+        "URL": "https://hubspot.com",
+        "Account Handle": "@HubSpot",
+        "First Seen": "2026-01-08T09:50:54.914322",
+        "Last Seen": "2026-01-08T09:50:54.914322",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "iCloud",
+        "Category": "Technology",
+        "URL": "https://icloud.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ICQ",
+        "Category": "Technology",
+        "URL": "https://icq.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Indeed",
+        "Category": "Technology",
+        "URL": "https://indeed.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "InfluxData",
+        "Category": "Technology",
+        "URL": "https://influxdata.com",
+        "Account Handle": "@influxdb",
+        "First Seen": "2026-01-08T09:51:10.698959",
+        "Last Seen": "2026-01-08T09:51:10.698959",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "iTunes",
+        "Category": "Technology",
+        "URL": "https://itunes.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Jimdo",
+        "Category": "Technology",
+        "URL": "https://jimdo.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Juejin",
+        "Category": "Technology",
+        "URL": "https://juejin.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Kaspersky",
+        "Category": "Technology",
+        "URL": "https://kaspersky.com",
+        "Account Handle": "@kaspersky",
+        "First Seen": "2026-01-08T09:51:31.898883",
+        "Last Seen": "2026-01-08T09:51:31.898883",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Kickstarter",
+        "Category": "Technology",
+        "URL": "https://kickstarter.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Linktree",
+        "Category": "Technology",
+        "URL": "https://linktr.ee",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Mail.ru",
+        "Category": "Technology",
+        "URL": "https://mail.ru",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Mailchimp",
+        "Category": "Technology",
+        "URL": "https://mailchimp.com",
+        "Account Handle": "@Mailchimp",
+        "First Seen": "2026-01-08T09:52:00.934782",
+        "Last Seen": "2026-01-08T09:52:00.934782",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mapbox",
+        "Category": "Technology",
+        "URL": "https://mapbox.com",
+        "Account Handle": "@mapbox",
+        "First Seen": "2026-01-08T09:52:02.073836",
+        "Last Seen": "2026-01-08T09:52:02.073836",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "McAfee",
+        "Category": "Technology",
+        "URL": "https://mcafee.com",
+        "Account Handle": "@McAfee",
+        "First Seen": "2026-01-08T09:52:03.325104",
+        "Last Seen": "2026-01-08T09:52:03.325104",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Meituan",
+        "Category": "Technology",
+        "URL": "https://meituan.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Microsoft Live",
+        "Category": "Technology",
+        "URL": "https://live.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Microsoft Office",
+        "Category": "Technology",
+        "URL": "https://office.com",
+        "Account Handle": "@Microsoft365",
+        "First Seen": "2026-01-08T09:52:18.754577",
+        "Last Seen": "2026-01-08T09:52:18.754577",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Microsoft Outlook",
+        "Category": "Technology",
+        "URL": "https://outlook.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Monster",
+        "Category": "Technology",
+        "URL": "https://monster.com",
+        "Account Handle": "@Monster",
+        "First Seen": "2026-01-08T09:52:30.339213",
+        "Last Seen": "2026-01-08T09:52:30.339213",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mozilla",
+        "Category": "Technology",
+        "URL": "https://mozilla.org",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Namecheap",
+        "Category": "Technology",
+        "URL": "https://namecheap.com",
+        "Account Handle": "@namecheap",
+        "First Seen": "2026-01-08T09:52:35.994166",
+        "Last Seen": "2026-01-08T09:52:35.994166",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NetEase",
+        "Category": "Technology",
+        "URL": "https://163.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Norton",
+        "Category": "Technology",
+        "URL": "https://norton.com",
+        "Account Handle": "@norton",
+        "First Seen": "2026-01-08T09:52:48.150454",
+        "Last Seen": "2026-01-08T09:52:48.150454",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Okta",
+        "Category": "Technology",
+        "URL": "https://okta.com",
+        "Account Handle": "@okta",
+        "First Seen": "2026-01-08T09:52:48.794234",
+        "Last Seen": "2026-01-08T09:52:48.794234",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "OpenAI (ChatGPT)",
+        "Category": "Technology",
+        "URL": "https://chatgpt.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Patreon",
+        "Category": "Technology",
+        "URL": "https://patreon.com",
+        "Account Handle": "@patreon",
+        "First Seen": "2026-01-08T09:52:53.783130",
+        "Last Seen": "2026-01-08T09:52:53.783130",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PCOnline",
+        "Category": "Technology",
+        "URL": "https://pconline.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "PHP",
+        "Category": "Technology",
+        "URL": "https://php.net",
+        "Account Handle": "@official_php",
+        "First Seen": "2026-01-08T09:53:50.325980",
+        "Last Seen": "2026-01-08T09:53:50.325980",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Pocket",
+        "Category": "Technology",
+        "URL": "https://getpocket.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ProtonMail",
+        "Category": "Technology",
+        "URL": "https://protonmail.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Python Software Foundation",
+        "Category": "Technology",
+        "URL": "https://python.org",
+        "Account Handle": "@ThePSF",
+        "First Seen": "2026-01-08T09:54:02.027725",
+        "Last Seen": "2026-01-08T09:54:02.027725",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "QQ",
+        "Category": "Technology",
+        "URL": "https://qq.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Qualtrics",
+        "Category": "Technology",
+        "URL": "https://qualtrics.com",
+        "Account Handle": "@Qualtrics",
+        "First Seen": "2026-01-08T09:54:07.796879",
+        "Last Seen": "2026-01-08T09:54:07.796879",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Red Hat",
+        "Category": "Technology",
+        "URL": "https://redhat.com",
+        "Account Handle": "@RedHat",
+        "First Seen": "2026-01-08T09:54:08.814938",
+        "Last Seen": "2026-01-08T09:54:08.814938",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ResearchGate",
+        "Category": "Technology",
+        "URL": "https://researchgate.net",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Salesforce",
+        "Category": "Technology",
+        "URL": "https://force.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Skype",
+        "Category": "Technology",
+        "URL": "https://skype.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "SourceForge",
+        "Category": "Technology",
+        "URL": "https://sourceforge.net",
+        "Account Handle": "@sourceforge",
+        "First Seen": "2026-01-08T09:54:23.722268",
+        "Last Seen": "2026-01-08T09:54:23.722268",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Speedtest by Ookla",
+        "Category": "Technology",
+        "URL": "https://speedtest.net",
+        "Account Handle": "@speedtest",
+        "First Seen": "2026-01-08T09:54:24.664998",
+        "Last Seen": "2026-01-08T09:54:24.664998",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Stack Exchange",
+        "Category": "Technology",
+        "URL": "https://stackexchange.com",
+        "Account Handle": "@stackoverflow",
+        "First Seen": "2026-01-08T09:54:25.045915",
+        "Last Seen": "2026-01-08T09:54:25.045915",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SurveyMonkey",
+        "Category": "Technology",
+        "URL": "https://surveymonkey.com",
+        "Account Handle": "@SurveyMonkey",
+        "First Seen": "2026-01-08T09:54:26.027031",
+        "Last Seen": "2026-01-08T09:54:26.027031",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TeamViewer",
+        "Category": "Technology",
+        "URL": "https://teamviewer.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Tencent",
+        "Category": "Technology",
+        "URL": "https://tencent.com",
+        "Account Handle": "@TencentGlobal",
+        "First Seen": "2026-01-08T11:36:25.420109",
+        "Last Seen": "2026-01-08T11:36:25.420109",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TinyURL",
+        "Category": "Technology",
+        "URL": "https://tinyurl.com",
+        "Account Handle": "@tinyurl",
+        "First Seen": "2026-01-08T09:55:21.200244",
+        "Last Seen": "2026-01-08T09:55:21.200244",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Trustpilot",
+        "Category": "Technology",
+        "URL": "https://trustpilot.com",
+        "Account Handle": "@Trustpilot",
+        "First Seen": "2026-01-08T09:55:22.310523",
+        "Last Seen": "2026-01-08T09:55:22.310523",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Upwork",
+        "Category": "Technology",
+        "URL": "https://upwork.com",
+        "Account Handle": "@Upwork",
+        "First Seen": "2026-01-08T09:55:23.729964",
+        "Last Seen": "2026-01-08T09:55:23.729964",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "VMware",
+        "Category": "Technology",
+        "URL": "https://vmware.com",
+        "Account Handle": "@vmware",
+        "First Seen": "2026-01-08T09:55:28.486458",
+        "Last Seen": "2026-01-08T09:55:28.486458",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Waze",
+        "Category": "Technology",
+        "URL": "https://waze.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Webex",
+        "Category": "Technology",
+        "URL": "https://webex.com",
+        "Account Handle": "@webex",
+        "First Seen": "2026-01-08T11:17:33.568110",
+        "Last Seen": "2026-01-08T11:17:33.568110",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Weebly",
+        "Category": "Technology",
+        "URL": "https://weebly.com",
+        "Account Handle": "@weebly",
+        "First Seen": "2026-01-08T09:55:37.826411",
+        "Last Seen": "2026-01-08T09:55:37.826411",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "WeTransfer",
+        "Category": "Technology",
+        "URL": "https://wetransfer.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "WordPress",
+        "Category": "Technology",
+        "URL": "https://wordpress.org",
+        "Account Handle": "@WordPress",
+        "First Seen": "2026-01-08T09:55:42.251071",
+        "Last Seen": "2026-01-08T09:55:42.251071",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Yelp",
+        "Category": "Technology",
+        "URL": "https://yelp.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Zillow",
+        "Category": "Technology",
+        "URL": "https://zillow.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "ZOL",
+        "Category": "Technology",
+        "URL": "https://zol.com.cn",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "USPS",
+        "Category": "Transportation",
+        "URL": "https://usps.com",
+        "Account Handle": "@usps",
+        "First Seen": "2026-01-08T09:56:15.692456",
+        "Last Seen": "2026-01-08T09:56:15.692456",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Ctrip",
+        "Category": "Travel",
+        "URL": "https://ctrip.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Fliggy",
+        "Category": "Travel",
+        "URL": "https://fliggy.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Hotels.com",
+        "Category": "Travel",
+        "URL": "https://hotels.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Trip.com",
+        "Category": "Travel",
+        "URL": "https://trip.com",
+        "Account Handle": "@trip",
+        "First Seen": "2026-01-08T09:56:44.651750",
+        "Last Seen": "2026-01-08T09:56:44.651750",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "1Password",
+        "Category": "Password Manager",
+        "URL": "https://1password.com",
+        "Account Handle": "@1Password",
+        "First Seen": "2026-01-08T11:17:33.635244",
+        "Last Seen": "2026-01-08T11:17:33.635244",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bitwarden",
+        "Category": "Password Manager",
+        "URL": "https://bitwarden.com",
+        "Account Handle": "@bitwarden",
+        "First Seen": "2026-01-08T11:17:33.843790",
+        "Last Seen": "2026-01-08T11:17:33.843790",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Dashlane",
+        "Category": "Password Manager",
+        "URL": "https://dashlane.com",
+        "Account Handle": "@dashlane",
+        "First Seen": "2026-01-08T11:17:34.076611",
+        "Last Seen": "2026-01-08T11:17:34.076611",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Keeper",
+        "Category": "Password Manager",
+        "URL": "https://keepersecurity.com",
+        "Account Handle": "@keepersecurity",
+        "First Seen": "2026-01-08T11:17:34.328240",
+        "Last Seen": "2026-01-08T11:17:34.328240",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Sticky Password",
+        "Category": "Password Manager",
+        "URL": "https://stickypassword.com",
+        "Account Handle": "@stickypassword",
+        "First Seen": "2026-01-08T11:17:34.470424",
+        "Last Seen": "2026-01-08T11:17:34.470424",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "LastPass",
+        "Category": "Password Manager",
+        "URL": "https://lastpass.com",
+        "Account Handle": "@LastPass",
+        "First Seen": "2026-01-08T11:17:34.630609",
+        "Last Seen": "2026-01-08T11:17:34.630609",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "RoboForm",
+        "Category": "Password Manager",
+        "URL": "https://roboform.com",
+        "Account Handle": "@RoboForm",
+        "First Seen": "2026-01-08T11:17:34.882094",
+        "Last Seen": "2026-01-08T11:17:34.882094",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NordVPN",
+        "Category": "VPN",
+        "URL": "https://nordvpn.com",
+        "Account Handle": "@MrNathanCorliss",
+        "First Seen": "2026-01-08T11:17:34.961214",
+        "Last Seen": "2026-01-08T11:17:34.961214",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "NordPass",
+        "Category": "Password Manager",
+        "URL": "https://nordpass.com",
+        "Account Handle": "@NordPass",
+        "First Seen": "2026-01-08T11:17:35.050468",
+        "Last Seen": "2026-01-08T11:17:35.050468",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Surfshark",
+        "Category": "VPN",
+        "URL": "https://surfshark.com",
+        "Account Handle": "@surfshark",
+        "First Seen": "2026-01-08T11:17:35.071987",
+        "Last Seen": "2026-01-08T11:17:35.071987",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ExpressVPN",
+        "Category": "VPN",
+        "URL": "https://expressvpn.com",
+        "Account Handle": "@expressvpn",
+        "First Seen": "2026-01-08T11:17:35.170256",
+        "Last Seen": "2026-01-08T11:17:35.170256",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Password Boss",
+        "Category": "Password Manager",
+        "URL": "https://passwordboss.com",
+        "Account Handle": "@CyberFoxLLC",
+        "First Seen": "2026-01-08T11:17:35.235060",
+        "Last Seen": "2026-01-08T11:17:35.235060",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Windscribe",
+        "Category": "VPN",
+        "URL": "https://windscribe.com",
+        "Account Handle": "@windscribecom",
+        "First Seen": "2026-01-08T11:17:35.408359",
+        "Last Seen": "2026-01-08T11:17:35.408359",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "RememBear",
+        "Category": "Password Manager",
+        "URL": "https://remembear.com",
+        "Account Handle": "@theTunnelBear",
+        "First Seen": "2026-01-08T11:17:35.529413",
+        "Last Seen": "2026-01-08T11:17:35.529413",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "TunnelBear",
+        "Category": "VPN",
+        "URL": "https://tunnelbear.com",
+        "Account Handle": "@theTunnelBear",
+        "First Seen": "2026-01-08T11:17:35.570670",
+        "Last Seen": "2026-01-08T11:17:35.570670",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Private Internet Access",
+        "Category": "VPN",
+        "URL": "https://privateinternetaccess.com",
+        "Account Handle": "@buyvpnservice",
+        "First Seen": "2026-01-08T11:17:35.637537",
+        "Last Seen": "2026-01-08T11:17:35.637537",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Enpass",
+        "Category": "Password Manager",
+        "URL": "https://enpass.io",
+        "Account Handle": "@EnpassApp",
+        "First Seen": "2026-01-08T11:17:35.740872",
+        "Last Seen": "2026-01-08T11:17:35.740872",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "IPVanish",
+        "Category": "VPN",
+        "URL": "https://ipvanish.com",
+        "Account Handle": "@ipvanish",
+        "First Seen": "2026-01-08T11:17:35.883689",
+        "Last Seen": "2026-01-08T11:17:35.883689",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "VyprVPN",
+        "Category": "VPN",
+        "URL": "https://vyprvpn.com",
+        "Account Handle": "@VyprVPN",
+        "First Seen": "2026-01-08T11:17:35.910755",
+        "Last Seen": "2026-01-08T11:17:35.910755",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hotspot Shield",
+        "Category": "VPN",
+        "URL": "https://hotspotshield.com",
+        "Account Handle": "@hotspotshield",
+        "First Seen": "2026-01-08T11:17:35.991035",
+        "Last Seen": "2026-01-08T11:17:35.991035",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mullvad VPN",
+        "Category": "VPN",
+        "URL": "https://mullvad.net",
+        "Account Handle": "@mullvadnet",
+        "First Seen": "2026-01-08T11:17:36.019417",
+        "Last Seen": "2026-01-08T11:17:36.019417",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PureVPN",
+        "Category": "VPN",
+        "URL": "https://purevpn.com",
+        "Account Handle": "@PureVPNcom",
+        "First Seen": "2026-01-08T11:17:36.204892",
+        "Last Seen": "2026-01-08T11:17:36.204892",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Malwarebytes",
+        "Category": "Consumer Security",
+        "URL": "https://malwarebytes.com",
+        "Account Handle": "@malwarebytes",
+        "First Seen": "2026-01-08T11:17:36.319582",
+        "Last Seen": "2026-01-08T11:17:36.319582",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Hide.me",
+        "Category": "VPN",
+        "URL": "https://hide.me",
+        "Account Handle": "@ZDNet",
+        "First Seen": "2026-01-08T11:17:36.468637",
+        "Last Seen": "2026-01-08T11:17:36.468637",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Vipre",
+        "Category": "Consumer Security",
+        "URL": "https://vipre.com",
+        "Account Handle": "@VIPRESecurity",
+        "First Seen": "2026-01-08T11:17:36.688820",
+        "Last Seen": "2026-01-08T11:17:36.688820",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "F-Secure",
+        "Category": "Consumer Security",
+        "URL": "https://f-secure.com",
+        "Account Handle": "@FSecure",
+        "First Seen": "2026-01-08T11:17:36.761127",
+        "Last Seen": "2026-01-08T11:17:36.761127",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CyberGhost",
+        "Category": "VPN",
+        "URL": "https://cyberghostvpn.com",
+        "Account Handle": "@CyberGhost_EN",
+        "First Seen": "2026-01-08T11:17:36.863062",
+        "Last Seen": "2026-01-08T11:17:36.863062",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Trend Micro",
+        "Category": "Consumer Security",
+        "URL": "https://trendmicro.com",
+        "Account Handle": "@trendmicro",
+        "First Seen": "2026-01-08T11:17:37.005559",
+        "Last Seen": "2026-01-08T11:17:37.005559",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Webroot",
+        "Category": "Consumer Security",
+        "URL": "https://webroot.com",
+        "Account Handle": "@Webroot",
+        "First Seen": "2026-01-08T11:17:37.137820",
+        "Last Seen": "2026-01-08T11:17:37.137820",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ESET",
+        "Category": "Consumer Security",
+        "URL": "https://eset.com",
+        "Account Handle": "@eset",
+        "First Seen": "2026-01-08T11:17:37.163259",
+        "Last Seen": "2026-01-08T11:17:37.163259",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lookout",
+        "Category": "Consumer Security",
+        "URL": "https://lookout.com",
+        "Account Handle": "@Lookout",
+        "First Seen": "2026-01-08T11:17:37.225042",
+        "Last Seen": "2026-01-08T11:17:37.225042",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Panda Security",
+        "Category": "Consumer Security",
+        "URL": "https://pandasecurity.com",
+        "Account Handle": "@Panda_Security",
+        "First Seen": "2026-01-08T11:17:37.254112",
+        "Last Seen": "2026-01-08T11:17:37.254112",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ZoneAlarm",
+        "Category": "Consumer Security",
+        "URL": "https://zonealarm.com",
+        "Account Handle": "@zonealarm",
+        "First Seen": "2026-01-08T11:17:37.274930",
+        "Last Seen": "2026-01-08T11:17:37.274930",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Aura",
+        "Category": "Consumer Security",
+        "URL": "https://aura.com",
+        "Account Handle": "@Aura_Protects",
+        "First Seen": "2026-01-08T11:17:37.490954",
+        "Last Seen": "2026-01-08T11:17:37.490954",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Palo Alto Networks",
+        "Category": "Enterprise Security",
+        "URL": "https://paloaltonetworks.com",
+        "Account Handle": "@PaloAltoNtwks",
+        "First Seen": "2026-01-08T11:17:37.575065",
+        "Last Seen": "2026-01-08T11:17:37.575065",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SentinelOne",
+        "Category": "Enterprise Security",
+        "URL": "https://sentinelone.com",
+        "Account Handle": "@SentinelOne",
+        "First Seen": "2026-01-08T11:17:38.007467",
+        "Last Seen": "2026-01-08T11:17:38.007467",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Zscaler",
+        "Category": "Enterprise Security",
+        "URL": "https://zscaler.com",
+        "Account Handle": "@zscaler",
+        "First Seen": "2026-01-08T11:17:38.081651",
+        "Last Seen": "2026-01-08T11:17:38.081651",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "CyberArk",
+        "Category": "Enterprise Security",
+        "URL": "https://cyberark.com",
+        "Account Handle": "@CyberArk",
+        "First Seen": "2026-01-08T11:17:38.159366",
+        "Last Seen": "2026-01-08T11:17:38.159366",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Proofpoint",
+        "Category": "Enterprise Security",
+        "URL": "https://proofpoint.com",
+        "Account Handle": "@proofpoint",
+        "First Seen": "2026-01-08T11:17:38.219124",
+        "Last Seen": "2026-01-08T11:17:38.219124",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Cisco Secure",
+        "Category": "Enterprise Security",
+        "URL": "https://cisco.com/site/us/en/products/security",
+        "Account Handle": "@Cisco",
+        "First Seen": "2026-01-08T11:17:38.411550",
+        "Last Seen": "2026-01-08T11:17:38.411550",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Cloudflare",
+        "Category": "Enterprise Security",
+        "URL": "https://cloudflare.com",
+        "Account Handle": "@Cloudflare",
+        "First Seen": "2026-01-08T11:17:38.710627",
+        "Last Seen": "2026-01-08T11:17:38.710627",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Emsisoft",
+        "Category": "Consumer Security",
+        "URL": "https://emsisoft.com",
+        "Account Handle": "@emsisoft",
+        "First Seen": "2026-01-08T11:17:38.710662",
+        "Last Seen": "2026-01-08T11:17:38.710662",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Fortinet",
+        "Category": "Enterprise Security",
+        "URL": "https://fortinet.com",
+        "Account Handle": "@Fortinet",
+        "First Seen": "2026-01-08T11:17:38.720239",
+        "Last Seen": "2026-01-08T11:17:38.720239",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Tenable",
+        "Category": "Enterprise Security",
+        "URL": "https://tenable.com",
+        "Account Handle": "@tenablesecurity",
+        "First Seen": "2026-01-08T11:17:38.903506",
+        "Last Seen": "2026-01-08T11:17:38.903506",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Arctic Wolf",
+        "Category": "Enterprise Security",
+        "URL": "https://arcticwolf.com",
+        "Account Handle": "@AWNetworks",
+        "First Seen": "2026-01-08T11:17:39.032279",
+        "Last Seen": "2026-01-08T11:17:39.032279",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Rapid7",
+        "Category": "Enterprise Security",
+        "URL": "https://rapid7.com",
+        "Account Handle": "@Rapid7",
+        "First Seen": "2026-01-08T11:17:39.190854",
+        "Last Seen": "2026-01-08T11:17:39.190854",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Splunk",
+        "Category": "Enterprise Security",
+        "URL": "https://splunk.com",
+        "Account Handle": "@splunk",
+        "First Seen": "2026-01-08T11:17:39.270788",
+        "Last Seen": "2026-01-08T11:17:39.270788",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "KnowBe4",
+        "Category": "Enterprise Security",
+        "URL": "https://knowbe4.com",
+        "Account Handle": "@knowbe4",
+        "First Seen": "2026-01-08T11:17:39.349427",
+        "Last Seen": "2026-01-08T11:17:39.349427",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Akamai",
+        "Category": "Enterprise Security",
+        "URL": "https://akamai.com",
+        "Account Handle": "@Akamai",
+        "First Seen": "2026-01-08T11:17:39.568518",
+        "Last Seen": "2026-01-08T11:17:39.568518",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "WatchGuard",
+        "Category": "Enterprise Security",
+        "URL": "https://watchguard.com",
+        "Account Handle": "@watchguard",
+        "First Seen": "2026-01-08T11:17:39.653472",
+        "Last Seen": "2026-01-08T11:17:39.653472",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Barracuda Networks",
+        "Category": "Enterprise Security",
+        "URL": "https://barracuda.com",
+        "Account Handle": "@barracuda",
+        "First Seen": "2026-01-08T11:17:39.892588",
+        "Last Seen": "2026-01-08T11:17:39.892588",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Cohesity",
+        "Category": "Enterprise Security",
+        "URL": "https://cohesity.com",
+        "Account Handle": "@cohesity",
+        "First Seen": "2026-01-08T11:17:39.916888",
+        "Last Seen": "2026-01-08T11:17:39.916888",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "F5",
+        "Category": "Enterprise Security",
+        "URL": "https://f5.com",
+        "Account Handle": "@f5",
+        "First Seen": "2026-01-08T11:17:40.004484",
+        "Last Seen": "2026-01-08T11:17:40.004484",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SailPoint",
+        "Category": "Enterprise Security",
+        "URL": "https://sailpoint.com",
+        "Account Handle": "@SailPoint",
+        "First Seen": "2026-01-08T11:17:40.088453",
+        "Last Seen": "2026-01-08T11:17:40.088453",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Forcepoint",
+        "Category": "Enterprise Security",
+        "URL": "https://forcepoint.com",
+        "Account Handle": "@forcepointsec",
+        "First Seen": "2026-01-08T11:17:40.168031",
+        "Last Seen": "2026-01-08T11:17:40.168031",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Yubico",
+        "Category": "Enterprise Security",
+        "URL": "https://yubico.com",
+        "Account Handle": "@Yubico",
+        "First Seen": "2026-01-08T11:17:40.308383",
+        "Last Seen": "2026-01-08T11:17:40.308383",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Drata",
+        "Category": "Enterprise Security",
+        "URL": "https://drata.com",
+        "Account Handle": "@dratahq",
+        "First Seen": "2026-01-08T11:17:40.547836",
+        "Last Seen": "2026-01-08T11:17:40.547836",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Snyk",
+        "Category": "Enterprise Security",
+        "URL": "https://snyk.io",
+        "Account Handle": "@snyksec",
+        "First Seen": "2026-01-08T11:17:40.624679",
+        "Last Seen": "2026-01-08T11:17:40.624679",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SecurityScorecard",
+        "Category": "Enterprise Security",
+        "URL": "https://securityscorecard.com",
+        "Account Handle": "@security_score",
+        "First Seen": "2026-01-08T11:17:40.690647",
+        "Last Seen": "2026-01-08T11:17:40.690647",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Illumio",
+        "Category": "Enterprise Security",
+        "URL": "https://illumio.com",
+        "Account Handle": "@illumio",
+        "First Seen": "2026-01-08T11:17:40.753405",
+        "Last Seen": "2026-01-08T11:17:40.753405",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "BlackBerry Cybersecurity",
+        "Category": "Enterprise Security",
+        "URL": "https://blackberry.com",
+        "Account Handle": "@blackberry",
+        "First Seen": "2026-01-08T11:17:40.814745",
+        "Last Seen": "2026-01-08T11:17:40.814745",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "LogRhythm",
+        "Category": "Enterprise Security",
+        "URL": "https://logrhythm.com",
+        "Account Handle": "@exabeam",
+        "First Seen": "2026-01-08T11:17:40.949899",
+        "Last Seen": "2026-01-08T11:17:40.949899",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Vanta",
+        "Category": "Enterprise Security",
+        "URL": "https://vanta.com",
+        "Account Handle": "@TrustVanta",
+        "First Seen": "2026-01-08T11:17:40.982147",
+        "Last Seen": "2026-01-08T11:17:40.982147",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Exabeam",
+        "Category": "Enterprise Security",
+        "URL": "https://exabeam.com",
+        "Account Handle": "@exabeam",
+        "First Seen": "2026-01-08T11:17:40.995739",
+        "Last Seen": "2026-01-08T11:17:40.995739",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "RSA Security",
+        "Category": "Enterprise Security",
+        "URL": "https://rsa.com",
+        "Account Handle": "@RSAsecurity",
+        "First Seen": "2026-01-08T11:17:41.089290",
+        "Last Seen": "2026-01-08T11:17:41.089290",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Varonis",
+        "Category": "Enterprise Security",
+        "URL": "https://varonis.com",
+        "Account Handle": "@varonis",
+        "First Seen": "2026-01-08T11:17:41.323075",
+        "Last Seen": "2026-01-08T11:17:41.323075",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Tanium",
+        "Category": "Enterprise Security",
+        "URL": "https://tanium.com",
+        "Account Handle": "@tanium",
+        "First Seen": "2026-01-08T11:17:41.368781",
+        "Last Seen": "2026-01-08T11:17:41.368781",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Wiz",
+        "Category": "Enterprise Security",
+        "URL": "https://wiz.io",
+        "Account Handle": "@wiz_io",
+        "First Seen": "2026-01-08T11:17:41.466657",
+        "Last Seen": "2026-01-08T11:17:41.466657",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Bugcrowd",
+        "Category": "Enterprise Security",
+        "URL": "https://bugcrowd.com",
+        "Account Handle": "@bugcrowd",
+        "First Seen": "2026-01-08T11:17:41.710656",
+        "Last Seen": "2026-01-08T11:17:41.710656",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Checkmarx",
+        "Category": "Enterprise Security",
+        "URL": "https://checkmarx.com",
+        "Account Handle": "@checkmarx",
+        "First Seen": "2026-01-08T11:17:41.771540",
+        "Last Seen": "2026-01-08T11:17:41.771540",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Veracode",
+        "Category": "Enterprise Security",
+        "URL": "https://veracode.com",
+        "Account Handle": "@Veracode",
+        "First Seen": "2026-01-08T11:17:41.885323",
+        "Last Seen": "2026-01-08T11:17:41.885323",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Claroty",
+        "Category": "Enterprise Security",
+        "URL": "https://claroty.com",
+        "Account Handle": "@claroty",
+        "First Seen": "2026-01-08T11:17:41.956614",
+        "Last Seen": "2026-01-08T11:17:41.956614",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Netskope",
+        "Category": "Enterprise Security",
+        "URL": "https://netskope.com",
+        "Account Handle": "@netskope",
+        "First Seen": "2026-01-08T11:17:42.009059",
+        "Last Seen": "2026-01-08T11:17:42.009059",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "HackerOne",
+        "Category": "Enterprise Security",
+        "URL": "https://hackerone.com",
+        "Account Handle": "@Hacker0x01",
+        "First Seen": "2026-01-08T11:17:42.150246",
+        "Last Seen": "2026-01-08T11:17:42.150246",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Synack",
+        "Category": "Enterprise Security",
+        "URL": "https://synack.com",
+        "Account Handle": "@synack",
+        "First Seen": "2026-01-08T11:17:42.261538",
+        "Last Seen": "2026-01-08T11:17:42.261538",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Darktrace",
+        "Category": "Enterprise Security",
+        "URL": "https://darktrace.com",
+        "Account Handle": "@Darktrace",
+        "First Seen": "2026-01-08T11:17:42.329069",
+        "Last Seen": "2026-01-08T11:17:42.329069",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Armis",
+        "Category": "Enterprise Security",
+        "URL": "https://armis.com",
+        "Account Handle": "@ArmisSecurity",
+        "First Seen": "2026-01-08T11:17:42.451429",
+        "Last Seen": "2026-01-08T11:17:42.451429",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mandiant",
+        "Category": "Enterprise Security",
+        "URL": "https://mandiant.com",
+        "Account Handle": "@googlecloud",
+        "First Seen": "2026-01-08T11:17:42.868292",
+        "Last Seen": "2026-01-08T11:17:42.868292",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "LogMeOnce",
+        "Category": "Password Manager",
+        "URL": "https://logmeonce.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "KeePass",
+        "Category": "Password Manager",
+        "URL": "https://keepass.info",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Proton Pass",
+        "Category": "Password Manager",
+        "URL": "https://proton.me/pass",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Zoho Vault",
+        "Category": "Password Manager",
+        "URL": "https://zoho.com/vault",
+        "Account Handle": "@zohovault",
+        "First Seen": "2026-01-08T11:34:50.610528",
+        "Last Seen": "2026-01-08T11:34:50.610528",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PrivateVPN",
+        "Category": "VPN",
+        "URL": "https://privatevpn.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Proton VPN",
+        "Category": "VPN",
+        "URL": "https://protonvpn.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "BullGuard",
+        "Category": "Consumer Security",
+        "URL": "https://bullguard.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "TotalAV",
+        "Category": "Consumer Security",
+        "URL": "https://totalav.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "CrowdStrike",
+        "Category": "Enterprise Security",
+        "URL": "https://crowdstrike.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Check Point",
+        "Category": "Enterprise Security",
+        "URL": "https://checkpoint.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Qualys",
+        "Category": "Enterprise Security",
+        "URL": "https://qualys.com",
+        "Account Handle": "@en",
+        "First Seen": "2026-01-08T11:35:26.062398",
+        "Last Seen": "2026-01-08T11:35:26.062398",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "SonicWall",
+        "Category": "Enterprise Security",
+        "URL": "https://sonicwall.com",
+        "Account Handle": "@SonicWALL",
+        "First Seen": "2026-01-08T11:35:37.696244",
+        "Last Seen": "2026-01-08T11:35:37.696244",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Mimecast",
+        "Category": "Enterprise Security",
+        "URL": "https://mimecast.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Rubrik",
+        "Category": "Enterprise Security",
+        "URL": "https://rubrik.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "G Data",
+        "Category": "Consumer Security",
+        "URL": "https://gdatasoftware.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Thales",
+        "Category": "Enterprise Security",
+        "URL": "https://thalesgroup.com",
+        "Account Handle": "@thalesgroup",
+        "First Seen": "2026-01-08T11:35:52.246869",
+        "Last Seen": "2026-01-08T11:35:52.246869",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Ping Identity",
+        "Category": "Enterprise Security",
+        "URL": "https://pingidentity.com",
+        "Account Handle": "@pingidentity",
+        "First Seen": "2026-01-08T11:35:55.998490",
+        "Last Seen": "2026-01-08T11:35:55.998490",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lacework",
+        "Category": "Enterprise Security",
+        "URL": "https://lacework.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Recorded Future",
+        "Category": "Enterprise Security",
+        "URL": "https://recordedfuture.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Dragos",
+        "Category": "Enterprise Security",
+        "URL": "https://dragos.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Abnormal Security",
+        "Category": "Enterprise Security",
+        "URL": "https://abnormalsecurity.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Sophos Home",
+        "Category": "Consumer Security",
+        "URL": "https://home.sophos.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Trellix",
+        "Category": "Enterprise Security",
+        "URL": "https://trellix.com",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
     }
 ]
