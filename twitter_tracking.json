@@ -1,0 +1,218 @@
+[
+    {
+        "Display Name": "OpenAI",
+        "Category": "AI",
+        "URL": "https://openai.com",
+        "Account Handle": "@OpenAI",
+        "First Seen": "2026-01-08T05:09:17.735663",
+        "Last Seen": "2026-01-08T06:21:03.791147",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Target",
+        "Category": "Retail",
+        "URL": "https://target.com/",
+        "Account Handle": "@Target",
+        "First Seen": "2026-01-08T05:09:21.323162",
+        "Last Seen": "2026-01-08T06:21:10.911585",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PBS",
+        "Category": "Media",
+        "URL": "https://www.pbs.org/",
+        "Account Handle": "@PBS",
+        "First Seen": "2026-01-08T05:09:24.452206",
+        "Last Seen": "2026-01-08T06:21:11.879357",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Walmart",
+        "Category": "Retail",
+        "URL": "https://corporate.walmart.com/",
+        "Account Handle": "@WalmartNews",
+        "First Seen": "2026-01-08T06:12:11.258441",
+        "Last Seen": "2026-01-08T06:21:12.273927",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "ExxonMobil",
+        "Category": "Energy",
+        "URL": "https://corporate.exxonmobil.com/",
+        "Account Handle": "@exxonmobil",
+        "First Seen": "2026-01-08T06:12:12.034273",
+        "Last Seen": "2026-01-08T06:21:12.887341",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "JPMorgan Chase",
+        "Category": "Financials",
+        "URL": "https://www.chase.com/",
+        "Account Handle": "@Chase",
+        "First Seen": "2026-01-08T06:12:12.437011",
+        "Last Seen": "2026-01-08T06:21:13.306657",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Microsoft",
+        "Category": "Technology",
+        "URL": "https://www.microsoft.com/",
+        "Account Handle": "@microsoft",
+        "First Seen": "2026-01-08T06:12:17.460243",
+        "Last Seen": "2026-01-08T06:21:18.576413",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Costco",
+        "Category": "Retail",
+        "URL": "https://www.costco.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Home Depot",
+        "Category": "Retail",
+        "URL": "https://www.homedepot.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Bank of America",
+        "Category": "Financials",
+        "URL": "https://about.bankofamerica.com/",
+        "Account Handle": "@BankofAmerica",
+        "First Seen": "2026-01-08T06:12:25.228069",
+        "Last Seen": "2026-01-08T06:21:25.097428",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Ford",
+        "Category": "Automotive",
+        "URL": "https://corporate.ford.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Comcast",
+        "Category": "Telecommunications",
+        "URL": "https://www.xfinity.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Meta (Facebook)",
+        "Category": "Technology",
+        "URL": "https://about.meta.com/",
+        "Account Handle": "@Meta",
+        "First Seen": "2026-01-08T06:12:58.727130",
+        "Last Seen": "2026-01-08T06:22:29.199334",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "PepsiCo",
+        "Category": "Food & Beverage",
+        "URL": "https://www.pepsico.com/",
+        "Account Handle": "@PepsiCo",
+        "First Seen": "2026-01-08T06:12:59.125701",
+        "Last Seen": "2026-01-08T06:22:29.512423",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Verizon",
+        "Category": "Telecommunications",
+        "URL": "https://www.verizon.com/",
+        "Account Handle": "@verizon",
+        "First Seen": "2026-01-08T06:12:59.532285",
+        "Last Seen": "2026-01-08T06:22:29.797240",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "UPS",
+        "Category": "Transportation",
+        "URL": "https://about.ups.com/",
+        "Account Handle": "@ups",
+        "First Seen": "2026-01-08T06:12:59.912371",
+        "Last Seen": "2026-01-08T06:22:30.132038",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "FedEx",
+        "Category": "Transportation",
+        "URL": "https://www.fedex.com/",
+        "Account Handle": "@FedEx",
+        "First Seen": "2026-01-08T06:16:46.905098",
+        "Last Seen": "2026-01-08T06:23:21.001939",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Lowe's",
+        "Category": "Retail",
+        "URL": "https://corporate.lowes.com/",
+        "Account Handle": "@Lowes",
+        "First Seen": "2026-01-08T06:13:34.680087",
+        "Last Seen": "2026-01-08T06:23:21.322949",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "IBM",
+        "Category": "Technology",
+        "URL": "https://www.ibm.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "Johnson & Johnson",
+        "Category": "Healthcare",
+        "URL": "https://www.jnj.com/",
+        "Account Handle": "@JNJNews",
+        "First Seen": "2026-01-08T06:13:43.567077",
+        "Last Seen": "2026-01-08T06:23:28.927736",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Nike",
+        "Category": "Apparel",
+        "URL": "https://about.nike.com/",
+        "Account Handle": "@Nike",
+        "First Seen": "2026-01-08T06:13:48.325442",
+        "Last Seen": "2026-01-08T06:23:33.906888",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Starbucks",
+        "Category": "Food & Beverage",
+        "URL": "https://www.starbucks.com/",
+        "Account Handle": "@starbucks",
+        "First Seen": "2026-01-08T06:13:48.754110",
+        "Last Seen": "2026-01-08T06:23:34.458063",
+        "Currently Listed": true
+    },
+    {
+        "Display Name": "Netflix",
+        "Category": "Media",
+        "URL": "https://about.netflix.com/",
+        "Account Handle": null,
+        "First Seen": null,
+        "Last Seen": null,
+        "Currently Listed": false
+    },
+    {
+        "Display Name": "McDonald's",
+        "Category": "Food & Beverage",
+        "URL": "https://www.mcdonalds.com/",
+        "Account Handle": "@McDonalds",
+        "First Seen": "2026-01-08T06:13:53.119049",
+        "Last Seen": "2026-01-08T06:23:39.292983",
+        "Currently Listed": true
+    }
+]
